@@ -1,0 +1,13 @@
+* {
+    margin: 10;
+    padding: 10;
+    font-family: monospace;
+}
+h1 {
+    color: blue;
+}
+img {
+    display: block;
+    margin: 0px auto 8px auto;
+    width: 400px;
+}

@@ -1,0 +1,29 @@
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>Registration Form</title>
+      {% load staticfiles %}
+    </head>
+    <body>
+        <p>Success! Welcome, {{request.session.alias}} </p>
+        <a href="{% url 'books:new' %}">Add a new Book and Review</a>
+        <a href="{% url 'login_registration:index' %}">Logout</a>
+        <h3>Recent Book Reviews:</h3>
+            {% for review in recent_reviews %}
+              <a href="{% url 'books:show_book' id=review.book.id %}">{{ review.book.title }}</a>
+                <p>Rating:
+                  {% for num in '12345' %}
+                    {% if num <= review.rating|stringformat:"i" %}
+                      <img src="{% static 'books/images/gold_star.png' %}" alt="star">
+                        {% else %}
+                          <img src="{% static 'books/images/empty_star.png' %}" alt="star">
+                    {% endif %}
+                  {% endfor %}
+                </p>
+              <p><a href="{% url 'books:show_user' id=review.user.id %}">{{ review.user.alias }}</a> says: <em>{{ review.description }}</em></p>
+              <p><em>Posted on {{ review.created_at|date:'F d, Y' }}</em></p>
+            {% endfor %}
+        <h3>Other Book Reviews:</h3>
+          
+    </body>
+</html>

@@ -1,0 +1,38 @@
+<html>
+<head>
+  <title>Full Friends App</title>
+  <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <h1>Full Friends</h1>
+  <table style="width 100%">
+    <tr>
+      <th div id="first_name">First Name</th>
+      <th div id="last_name">Last Name</th>
+      <th div id="email">Email Address</th>
+      <th div id="actions">Actions</th>
+    </tr>
+    {% for users in all_friends %}
+      <tr>
+        <td>{{ users['first_name'] }}</td>
+        <td>{{ users['last_name'] }}</td>
+        <td>{{ users['email'] }}</td>
+        <td>
+            <form action="/friends/{{ users['id'] }}/edit" method="GET">
+              <input type="submit" value="Edit">
+            </form>
+            <form action="/friends/{{ users['id'] }}/delete" method="POST">
+              <input type="submit" value="Delete">
+            </form>
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
+  <form action='/friends' method='POST'>
+    <label for="first_name">First Name:<input type="text" name="first_name">
+    <label for="last_name">Last Name:<input type="text" name="last_name">
+    <label for="email">Email<input type="email" name="email"></label>
+    <input type="submit" value="Add Friend">
+  </form>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Ninja to Cat</title>
+  <meta name="description" content="">
+  <link rel="stylesheet" href="my_css_file.css">
+  <style>
+    h2 {
+      margin-left: 20px;
+    }
+    img {
+      margin: 5px;
+      display: block;
+    }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('img').click(function() {
+        var temp = $(this).attr("src") ;
+        $(this).attr("src", $(this).data("alt-src"));
+        $(this).data("alt-src", temp);
+      });
+    });
+  </script>
+  <body>
+    <h2> Ninja to Cat </h2>
+    <img src="img/ninja0.png" alt="cat0 or ninja0 png" data-alt-src="img/cat0.png">
+    <img src="img/ninja1.png" alt="cat1 or ninja1 png" data-alt-src="img/cat1.png">
+    <img src="img/ninja2.png" alt="cat2 or ninja2 png" data-alt-src="img/cat2.png">
+    <img src="img/ninja3.png" alt="cat3 or ninja3 png" data-alt-src="img/cat3.png">
+    <img src="img/ninja4.png" alt="cat4 or ninja4 png" data-alt-src="img/cat4.png">
+  </body>
+</html>

@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  /*border-style: dotted;
+  border-color: green;
+  border-width: 1px;*/
+}
+.wrapper {
+  width: 970px;
+  background-color: #265175;
+  margin: 20px, auto;
+}
+.header {
+  background-color: inherit;
+  height: 110px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+nav.vertical {
+  border-radius: 4px;
+  width: 850px;
+  padding: 5px;
+  margin: 20px;
+  background-color: #487fab;
+  box-shadow: 0 5px 0  rgba(0,0,0,.15);
+  overflow: hidden;
+  position: relative;
+  left: 60px;
+  text-align: center;
+}
+  nav.vertical > ul {
+    list-style-type: none;
+  }
+    nav.vertical >ul >li {
+      display: inline;
+      font-size: 20px;
+    }
+    nav.vertical > ul > li a {
+      /*display: block;*/
+      padding: 16px;
+      text-decoration: none;
+      color: white;
+    }
+div.main_content {
+  background-color: #265175;
+  display: inline-block;
+  width: 860px;
+  padding: 10px;
+  position: relative;
+  left: 50px;
+}
+div.main_menu {
+  display: inline-block;
+  position: absolute;
+  left: 0px;
+  width: 180px;
+  text-align: center;
+  padding-left: 5px;
+}
+  div.main_menu > ul {
+    list-style-type: none;
+    list-style-position: inside;
+    color: yellow;
+  }
+  div.main_menu > ul > li a {
+    display: block;
+    text-decoration: underline;
+    color: white;
+    padding: 3px;
+    }
+div.general {
+  width: 660px;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  left: 200px;
+}
+  div.general > p {
+  font-size: 12px;
+  text-align: center;
+  color: white;
+  display: block;
+  padding: 5px;
+  margin-bottom: 5px;
+  }
+  div.general > ul {
+    list-style-type: none;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: yellow;
+    font-style: italic;
+    padding: 3px;
+    }
+      div.general > ul > li {
+      font-size: 16px;
+      font-family: sans-serif;
+      color: yellow;
+      font-style: italic;
+      padding: 3px;
+      }
+  div.general > pre {
+    font-size: 14px;
+    font-family: sans-serif;
+    color: white;
+    position: relative;
+    right: 25px;
+    padding: 5px;
+    text-align: center;
+  }
+div.infosec {
+  background-color: white;
+}
+  div.gettingstarted {
+      width: 360px;
+      border-top-style: solid;
+      border-top-color: lightblue;
+      border-top-width: 3px;
+      display: inline-block;
+      position: relative;
+      left: 30px;
+      bottom: 22px;
+      text-align: center;
+      margin: 5px 5px 5px 30px;
+      padding-right: 70px;
+  }
+  div.applications {
+    width: 360px;
+    display: inline-block;
+    border-top-style: solid;
+    border-top-color: lightblue;
+    border-top-width: 3px;
+    text-align: center;
+    margin: 10px 30px 5px 30px;
+    padding-right: 70px;
+  }
+  div.gettingstarted > h4 {
+    text-align: center;
+    margin: 4px;
+  }
+  div.gettingstarted > p {
+    text-align: center;
+    font-size: 12px;
+  }
+  div.gettingstarted > ul {
+    list-style-type: square;
+    color: black;
+    padding: 2px;
+    position: relative;
+    left: 30px;
+  }
+  div.gettingstarted > ul > li a {
+    color: #306694;
+    text-decoration: none;
+    font-size: 12px;
+    text-align: center;
+  }
+  div.applications > h4 {
+    text-align: center;
+    margin: 4px;
+  }
+  div.applications > p {
+    text-align: center;
+    font-size: 12px;
+  }
+  div.applications > ul {
+    list-style-type: square;
+    color: black;
+    padding: 2px;
+    position: relative;
+    left: 30px;
+  }
+  div.applications > ul > li a {
+    color: #306694;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: center;
+  }
+  div.applications a {
+    color: #306694;
+    font-size: 12px;
+  }
+div.footer {
+  background-color: #306694;
+  text-align: center;
+  padding: 40px 0px 5px 60px;
+}
+  div.footer ul {
+    list-style-type: none;
+  }
+    div.footer ul > li {
+    display: inline;
+    font-size: 16px;
+    }
+      div.footer ul > li a {
+        padding: 20px;
+        text-decoration: none;
+        color: lightblue;
+      }
+  div.footer p {
+    font-size: 8px;
+    color: lightblue;
+    margin-top: 10px;
+  }

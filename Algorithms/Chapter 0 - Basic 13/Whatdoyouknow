@@ -1,0 +1,8 @@
+function sitetraffic (incoming) {
+  if (sitetraffic == incoming) {
+    console.log ("Welcome to Emily's Best Blog Ever!")
+  }
+  else {
+    console.log ("Hope you had a great time!")
+  }
+}

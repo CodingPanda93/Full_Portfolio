@@ -1,0 +1,16 @@
+* {
+  font-family: monospace;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px 0;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}

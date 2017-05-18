@@ -1,0 +1,49 @@
+<html>
+<head>
+  <title>Controlling Users</title>
+  <script src='bower_components/angular/angular.js'></script>
+  <script type='text/javascript'>
+    var myApp = angular.module('myApp', []);
+    myApp.controller('usersController', ['$scope', function ($scope){
+        $scope.users = [
+            {first_name:'John', last_name: 'Brown', language:'Ruby'},
+            {first_name:'Jessie', last_name: 'Jackson', language:'JavaScript'},
+            {first_name:'Johanna', last_name: 'Hodges', language:'Python'},
+        ];
+        $scope.addUser = function(){
+          $scope.users.push($scope.user);
+        }
+        $scope.deleteUser = function(userToDelete){
+          $scope.users = $scope.users.filter(function(user){
+            return user !== userToDelete;
+          })
+        }
+    }])
+  </script>
+</head>
+<body ng-app='myApp'>
+    <div ng-controller='usersController'>
+      <h2>Create User:</h2>
+      <form ng-submit="addUser()">
+          First Name: <input type="text" ng-model='user.first_name' placeholder="First Name">
+          Last Name: <input type="text" ng-model='user.last_name' placeholder="Last Name">
+          Favorite Language<input type="text" ng-model='user.language' placeholder="Favorite Language">
+          <input type="submit" value="Submit User">
+      </form>
+      <table>
+        <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Favorite Language</th>
+          <th>Actions</th>
+        </tr>
+        <tr ng-repeat="user in users track by $index">
+          <td>{{user.first_name}}</td>
+          <td>{{user.last_name}}</td>
+          <td>{{user.language}}</td>
+          <td><button ng-click='deleteUser(user)'>Delete</button></td>
+        </tr>
+      </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+function multipleofsix(){
+  for (var i = 6; i <60,000; i++)
+    while (i % == 6){
+      console.log(i)
+    }
+    else {
+      continue;
+    }
+}

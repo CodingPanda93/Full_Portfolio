@@ -1,0 +1,5906 @@
+<DATA>
+
+	<ROW>
+		<name>Cuba</name>
+		<language>Spanish</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Haiti</name>
+		<language>Haiti Creole</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>San Marino</name>
+		<language>Italian</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Rwanda</name>
+		<language>Rwanda</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>El Salvador</name>
+		<language>Spanish</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Grenada</name>
+		<language>Creole English</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Kitts and Nevis</name>
+		<language>Creole English</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Maldives</name>
+		<language>Dhivehi</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Western Sahara</name>
+		<language>Arabic</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Faroe Islands</name>
+		<language>Faroese</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bermuda</name>
+		<language>English</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Dominica</name>
+		<language>Creole English</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cape Verde</name>
+		<language>Crioulo</language>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>North Korea</name>
+		<language>Korean</language>
+		<percentage>99.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Korea</name>
+		<language>Korean</language>
+		<percentage>99.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yemen</name>
+		<language>Arabic</language>
+		<percentage>99.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bosnia and Herzegovina</name>
+		<language>Serbo-Croatian</language>
+		<percentage>99.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Vincent and the Grenadines</name>
+		<language>Creole English</language>
+		<percentage>99.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<language>Japanese</language>
+		<percentage>99.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Colombia</name>
+		<language>Spanish</language>
+		<percentage>99.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Portugal</name>
+		<language>Portuguese</language>
+		<percentage>99.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kiribati</name>
+		<language>Kiribati</language>
+		<percentage>98.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Madagascar</name>
+		<language>Malagasy</language>
+		<percentage>98.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Egypt</name>
+		<language>Arabic</language>
+		<percentage>98.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Greece</name>
+		<language>Greek</language>
+		<percentage>98.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<language>Hungarian</language>
+		<percentage>98.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ireland</name>
+		<language>English</language>
+		<percentage>98.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tonga</name>
+		<language>Tongan</language>
+		<percentage>98.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Somalia</name>
+		<language>Somali</language>
+		<percentage>98.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burundi</name>
+		<language>Kirundi</language>
+		<percentage>98.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Dominican Republic</name>
+		<language>Spanish</language>
+		<percentage>98.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Albania</name>
+		<language>Albaniana</language>
+		<percentage>97.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jordan</name>
+		<language>Arabic</language>
+		<percentage>97.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Bengali</language>
+		<percentage>97.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nicaragua</name>
+		<language>Spanish</language>
+		<percentage>97.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Poland</name>
+		<language>Polish</language>
+		<percentage>97.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Costa Rica</name>
+		<language>Spanish</language>
+		<percentage>97.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brazil</name>
+		<language>Portuguese</language>
+		<percentage>97.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United Kingdom</name>
+		<language>English</language>
+		<percentage>97.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Honduras</name>
+		<language>Spanish</language>
+		<percentage>97.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Venezuela</name>
+		<language>Spanish</language>
+		<percentage>96.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Argentina</name>
+		<language>Spanish</language>
+		<percentage>96.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Marshall Islands</name>
+		<language>Marshallese</language>
+		<percentage>96.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Martinique</name>
+		<language>Creole French</language>
+		<percentage>96.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norway</name>
+		<language>Norwegian</language>
+		<percentage>96.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guyana</name>
+		<language>Creole English</language>
+		<percentage>96.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Libyan Arab Jamahiriya</name>
+		<language>Arabic</language>
+		<percentage>96.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palestine</name>
+		<language>Arabic</language>
+		<percentage>95.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Croatia</name>
+		<language>Serbo-Croatian</language>
+		<percentage>95.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malta</name>
+		<language>Maltese</language>
+		<percentage>95.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Antigua and Barbuda</name>
+		<language>Creole English</language>
+		<percentage>95.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uruguay</name>
+		<language>Spanish</language>
+		<percentage>95.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iceland</name>
+		<language>Icelandic</language>
+		<percentage>95.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands</name>
+		<language>Dutch</language>
+		<percentage>95.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Barbados</name>
+		<language>Bajan</language>
+		<percentage>95.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saudi Arabia</name>
+		<language>Arabic</language>
+		<percentage>95.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guadeloupe</name>
+		<language>Creole French</language>
+		<percentage>95.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>French Guiana</name>
+		<language>Creole French</language>
+		<percentage>94.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jamaica</name>
+		<language>Creole English</language>
+		<percentage>94.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>Italian</language>
+		<percentage>94.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<language>French</language>
+		<percentage>93.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Trinidad and Tobago</name>
+		<language>English</language>
+		<percentage>93.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>Danish</language>
+		<percentage>93.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Armenia</name>
+		<language>Armenian</language>
+		<percentage>93.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lebanon</name>
+		<language>Arabic</language>
+		<percentage>93.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ecuador</name>
+		<language>Spanish</language>
+		<percentage>93.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Finland</name>
+		<language>Finnish</language>
+		<percentage>92.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tuvalu</name>
+		<language>Tuvalu</language>
+		<percentage>92.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<language>Spanish</language>
+		<percentage>92.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>German</language>
+		<percentage>92.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Chinese</language>
+		<percentage>92.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>RÃ©union</name>
+		<language>Creole French</language>
+		<percentage>91.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<language>German</language>
+		<percentage>91.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Seychelles</name>
+		<language>Seselwa</language>
+		<percentage>91.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<language>Romanian</language>
+		<percentage>90.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>American Samoa</name>
+		<language>Samoan</language>
+		<percentage>90.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Syria</name>
+		<language>Arabic</language>
+		<percentage>90.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Swaziland</name>
+		<language>Swazi</language>
+		<percentage>89.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bahamas</name>
+		<language>Creole English</language>
+		<percentage>89.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chile</name>
+		<language>Spanish</language>
+		<percentage>89.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<language>Swedish</language>
+		<percentage>89.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Azerbaijan</name>
+		<language>Azerbaijani</language>
+		<percentage>89.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liechtenstein</name>
+		<language>German</language>
+		<percentage>89.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gibraltar</name>
+		<language>English</language>
+		<percentage>88.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hong Kong</name>
+		<language>Canton Chinese</language>
+		<percentage>88.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cambodia</name>
+		<language>Khmer</language>
+		<percentage>88.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovenia</name>
+		<language>Slovene</language>
+		<percentage>87.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bolivia</name>
+		<language>Spanish</language>
+		<percentage>87.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkey</name>
+		<language>Turkish</language>
+		<percentage>87.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Greenland</name>
+		<language>Greenlandic</language>
+		<percentage>87.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>New Zealand</name>
+		<language>English</language>
+		<percentage>87.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Vietnamese</language>
+		<percentage>86.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Russian</language>
+		<percentage>86.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sao Tome and Principe</name>
+		<language>Crioulo</language>
+		<percentage>86.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>English</language>
+		<percentage>86.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands Antilles</name>
+		<language>Papiamento</language>
+		<percentage>86.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Algeria</name>
+		<language>Arabic</language>
+		<percentage>86.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Solomon Islands</name>
+		<language>Malenasian Languages</language>
+		<percentage>85.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovakia</name>
+		<language>Slovak</language>
+		<percentage>85.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macao</name>
+		<language>Canton Chinese</language>
+		<percentage>85.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lesotho</name>
+		<language>Sotho</language>
+		<percentage>85.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Equatorial Guinea</name>
+		<language>Fang</language>
+		<percentage>84.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bulgaria</name>
+		<language>Bulgariana</language>
+		<percentage>83.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palau</name>
+		<language>Palau</language>
+		<percentage>82.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritania</name>
+		<language>Hassaniya</language>
+		<percentage>81.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Virgin Islands, U.S.</name>
+		<language>English</language>
+		<percentage>81.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lithuania</name>
+		<language>Lithuanian</language>
+		<percentage>81.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Czech</language>
+		<percentage>81.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>English</language>
+		<percentage>81.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Suriname</name>
+		<language>Sranantonga</language>
+		<percentage>81.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Lucia</name>
+		<language>Creole French</language>
+		<percentage>80.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Peru</name>
+		<language>Spanish</language>
+		<percentage>79.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mongolia</name>
+		<language>Mongolian</language>
+		<percentage>78.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kuwait</name>
+		<language>Arabic</language>
+		<percentage>78.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Papua New Guinea</name>
+		<language>Papuan Languages</language>
+		<percentage>78.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iraq</name>
+		<language>Arabic</language>
+		<percentage>77.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Singapore</name>
+		<language>Chinese</language>
+		<percentage>77.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Panama</name>
+		<language>Spanish</language>
+		<percentage>76.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkmenistan</name>
+		<language>Turkmenian</language>
+		<percentage>76.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Aruba</name>
+		<language>Papiamento</language>
+		<percentage>76.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Oman</name>
+		<language>Arabic</language>
+		<percentage>76.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Botswana</name>
+		<language>Tswana</language>
+		<percentage>75.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yugoslavia</name>
+		<language>Serbo-Croatian</language>
+		<percentage>75.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Comoros</name>
+		<language>Comorian</language>
+		<percentage>75.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Spain</name>
+		<language>Spanish</language>
+		<percentage>74.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cyprus</name>
+		<language>Greek</language>
+		<percentage>74.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uzbekistan</name>
+		<language>Uzbek</language>
+		<percentage>72.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zimbabwe</name>
+		<language>Shona</language>
+		<percentage>72.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Georgia</name>
+		<language>Georgiana</language>
+		<percentage>71.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritius</name>
+		<language>Creole French</language>
+		<percentage>70.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tunisia</name>
+		<language>Arabic</language>
+		<percentage>69.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Burmese</language>
+		<percentage>69.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bahrain</name>
+		<language>Arabic</language>
+		<percentage>67.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Laos</name>
+		<language>Lao</language>
+		<percentage>67.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Taiwan</name>
+		<language>Min</language>
+		<percentage>66.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macedonia</name>
+		<language>Macedonian</language>
+		<percentage>66.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belarus</name>
+		<language>Belorussian</language>
+		<percentage>65.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Estonia</name>
+		<language>Estonian</language>
+		<percentage>65.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Morocco</name>
+		<language>Arabic</language>
+		<percentage>65.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guatemala</name>
+		<language>Spanish</language>
+		<percentage>64.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Ukrainian</language>
+		<percentage>64.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Luxembourg</name>
+		<language>Luxembourgish</language>
+		<percentage>64.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Switzerland</name>
+		<language>German</language>
+		<percentage>63.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Israel</name>
+		<language>Hebrew</language>
+		<percentage>63.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tajikistan</name>
+		<language>Tadzhik</language>
+		<percentage>62.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Moldova</name>
+		<language>Romanian</language>
+		<percentage>61.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>English</language>
+		<percentage>60.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sri Lanka</name>
+		<language>Singali</language>
+		<percentage>60.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Kirgiz</language>
+		<percentage>59.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belgium</name>
+		<language>Dutch</language>
+		<percentage>59.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malaysia</name>
+		<language>Malay</language>
+		<percentage>58.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malawi</name>
+		<language>Chichewa</language>
+		<percentage>58.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nauru</name>
+		<language>Nauru</language>
+		<percentage>57.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vanuatu</name>
+		<language>Bislama</language>
+		<percentage>56.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Latvia</name>
+		<language>Latvian</language>
+		<percentage>55.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Paraguay</name>
+		<language>Spanish</language>
+		<percentage>55.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niger</name>
+		<language>Hausa</language>
+		<percentage>53.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Thailand</name>
+		<language>Thai</language>
+		<percentage>52.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Afghanistan</name>
+		<language>Pashto</language>
+		<percentage>52.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ghana</name>
+		<language>Akan</language>
+		<percentage>52.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Samoa</name>
+		<language>Samoan-English</language>
+		<percentage>52.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo</name>
+		<language>Kongo</language>
+		<percentage>51.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Puerto Rico</name>
+		<language>Spanish</language>
+		<percentage>51.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Fiji Islands</name>
+		<language>Fijian</language>
+		<percentage>50.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belize</name>
+		<language>English</language>
+		<percentage>50.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>Ovambo</language>
+		<percentage>50.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Nepali</language>
+		<percentage>50.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burkina Faso</name>
+		<language>Mossi</language>
+		<percentage>50.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bhutan</name>
+		<language>Dzongkha</language>
+		<percentage>50.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Arabic</language>
+		<percentage>49.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Eritrea</name>
+		<language>Tigrinja</language>
+		<percentage>49.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Punjabi</language>
+		<percentage>48.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Senegal</name>
+		<language>Wolof</language>
+		<percentage>48.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Samoa</name>
+		<language>Samoan</language>
+		<percentage>47.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Puerto Rico</name>
+		<language>English</language>
+		<percentage>47.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>French Polynesia</name>
+		<language>Tahitian</language>
+		<percentage>46.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kazakstan</name>
+		<language>Kazakh</language>
+		<percentage>46.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Persian</language>
+		<percentage>45.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brunei</name>
+		<language>Malay</language>
+		<percentage>45.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>New Caledonia</name>
+		<language>Malenasian Languages</language>
+		<percentage>45.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Andorra</name>
+		<language>Spanish</language>
+		<percentage>44.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Djibouti</name>
+		<language>Somali</language>
+		<percentage>43.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Fiji Islands</name>
+		<language>Hindi</language>
+		<percentage>43.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United Arab Emirates</name>
+		<language>Arabic</language>
+		<percentage>42.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Monaco</name>
+		<language>French</language>
+		<percentage>41.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mayotte</name>
+		<language>MahorÃ©</language>
+		<percentage>41.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Micronesia, Federated States of</name>
+		<language>Trukese</language>
+		<percentage>41.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>French Polynesia</name>
+		<language>French</language>
+		<percentage>40.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Qatar</name>
+		<language>Arabic</language>
+		<percentage>40.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Paraguay</name>
+		<language>GuaranÃ­</language>
+		<percentage>40.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Hindi</language>
+		<percentage>39.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Fon</language>
+		<percentage>39.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Javanese</language>
+		<percentage>39.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Ful</language>
+		<percentage>38.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guam</name>
+		<language>English</language>
+		<percentage>37.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Ovimbundu</language>
+		<percentage>37.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea-Bissau</name>
+		<language>Crioulo</language>
+		<percentage>36.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gabon</name>
+		<language>Fang</language>
+		<percentage>35.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bhutan</name>
+		<language>Nepali</language>
+		<percentage>34.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Mende</language>
+		<percentage>34.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Djibouti</name>
+		<language>Afar</language>
+		<percentage>34.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kazakstan</name>
+		<language>Russian</language>
+		<percentage>34.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>New Caledonia</name>
+		<language>French</language>
+		<percentage>34.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Northern Mariana Islands</name>
+		<language>Philippene Languages</language>
+		<percentage>34.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gambia</name>
+		<language>Malinke</language>
+		<percentage>34.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Morocco</name>
+		<language>Berberi</language>
+		<percentage>33.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Russian</language>
+		<percentage>32.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belgium</name>
+		<language>French</language>
+		<percentage>32.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Latvia</name>
+		<language>Russian</language>
+		<percentage>32.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Andorra</name>
+		<language>Catalan</language>
+		<percentage>32.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Afghanistan</name>
+		<language>Dari</language>
+		<percentage>32.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belarus</name>
+		<language>Russian</language>
+		<percentage>32.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Temne</language>
+		<percentage>31.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mali</name>
+		<language>Bambara</language>
+		<percentage>31.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Eritrea</name>
+		<language>Tigre</language>
+		<percentage>31.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belize</name>
+		<language>Spanish</language>
+		<percentage>31.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Oromo</language>
+		<percentage>31.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Amhara</language>
+		<percentage>30.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Northern Mariana Islands</name>
+		<language>Chamorro</language>
+		<percentage>30.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>CÃ´te dÂ’Ivoire</name>
+		<language>Akan</language>
+		<percentage>30.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zambia</name>
+		<language>Bemba</language>
+		<percentage>29.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guam</name>
+		<language>Chamorro</language>
+		<percentage>29.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Pilipino</language>
+		<percentage>29.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brunei</name>
+		<language>Malay-English</language>
+		<percentage>28.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vanuatu</name>
+		<language>English</language>
+		<percentage>28.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Makua</language>
+		<percentage>27.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Estonia</name>
+		<language>Russian</language>
+		<percentage>27.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Sara</language>
+		<percentage>27.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Thailand</name>
+		<language>Lao</language>
+		<percentage>26.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tunisia</name>
+		<language>Arabic-French</language>
+		<percentage>26.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Central African Republic</name>
+		<language>Gbaya</language>
+		<percentage>23.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Micronesia, Federated States of</name>
+		<language>Pohnpei</language>
+		<percentage>23.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Central African Republic</name>
+		<language>Banda</language>
+		<percentage>23.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>French</language>
+		<percentage>23.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Cebuano</language>
+		<percentage>23.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Moldova</name>
+		<language>Russian</language>
+		<percentage>23.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Ewe</language>
+		<percentage>23.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tajikistan</name>
+		<language>Uzbek</language>
+		<percentage>23.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Malinke</language>
+		<percentage>23.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macedonia</name>
+		<language>Albaniana</language>
+		<percentage>22.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Zulu</language>
+		<percentage>22.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cyprus</name>
+		<language>Turkish</language>
+		<percentage>22.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Senegal</name>
+		<language>Ful</language>
+		<percentage>21.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Mbundu</language>
+		<percentage>21.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Joruba</language>
+		<percentage>21.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niger</name>
+		<language>Songhai-zerma</language>
+		<percentage>21.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritius</name>
+		<language>Bhojpuri</language>
+		<percentage>21.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Nyamwesi</language>
+		<percentage>21.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Hausa</language>
+		<percentage>21.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Kikuyu</language>
+		<percentage>20.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mayotte</name>
+		<language>French</language>
+		<percentage>20.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Taiwan</name>
+		<language>Mandarin Chinese</language>
+		<percentage>20.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Papua New Guinea</name>
+		<language>Malenasian Languages</language>
+		<percentage>20.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Lucia</name>
+		<language>English</language>
+		<percentage>20.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Fang</language>
+		<percentage>19.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guam</name>
+		<language>Philippene Languages</language>
+		<percentage>19.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sri Lanka</name>
+		<language>Tamil</language>
+		<percentage>19.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sri Lanka</name>
+		<language>Mixed Languages</language>
+		<percentage>19.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Kpelle</language>
+		<percentage>19.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Switzerland</name>
+		<language>French</language>
+		<percentage>19.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iraq</name>
+		<language>Kurdish</language>
+		<percentage>19.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Bamileke-bamum</language>
+		<percentage>18.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malawi</name>
+		<language>Lomwe</language>
+		<percentage>18.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Ibo</language>
+		<percentage>18.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Ganda</language>
+		<percentage>18.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Israel</name>
+		<language>Arabic</language>
+		<percentage>18.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Luba</language>
+		<percentage>18.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nauru</name>
+		<language>Kiribati</language>
+		<percentage>17.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Xhosa</language>
+		<percentage>17.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo</name>
+		<language>Teke</language>
+		<percentage>17.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gabon</name>
+		<language>Punu-sira-nzebi</language>
+		<percentage>17.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Spain</name>
+		<language>Catalan</language>
+		<percentage>16.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Azerbaijani</language>
+		<percentage>16.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea-Bissau</name>
+		<language>Ful</language>
+		<percentage>16.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yugoslavia</name>
+		<language>Albaniana</language>
+		<percentage>16.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Laos</name>
+		<language>Mon-khmer</language>
+		<percentage>16.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Peru</name>
+		<language>KetÂšua</language>
+		<percentage>16.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zimbabwe</name>
+		<language>Ndebele</language>
+		<percentage>16.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gambia</name>
+		<language>Ful</language>
+		<percentage>16.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Russian</language>
+		<percentage>16.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mayotte</name>
+		<language>Malagasy</language>
+		<percentage>16.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Monaco</name>
+		<language>Italian</language>
+		<percentage>16.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Monaco</name>
+		<language>Monegasque</language>
+		<percentage>16.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Kongo</language>
+		<percentage>16.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Sunda</language>
+		<percentage>15.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ghana</name>
+		<language>Mossi</language>
+		<percentage>15.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bhutan</name>
+		<language>Asami</language>
+		<percentage>15.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lesotho</name>
+		<language>Zulu</language>
+		<percentage>15.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Central African Republic</name>
+		<language>Mandjia</language>
+		<percentage>14.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea-Bissau</name>
+		<language>Balante</language>
+		<percentage>14.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gabon</name>
+		<language>Mpongwe</language>
+		<percentage>14.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Afrikaans</language>
+		<percentage>14.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vanuatu</name>
+		<language>French</language>
+		<percentage>14.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Uzbek</language>
+		<percentage>14.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Singapore</name>
+		<language>Malay</language>
+		<percentage>14.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Algeria</name>
+		<language>Berberi</language>
+		<percentage>14.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Panama</name>
+		<language>Creole English</language>
+		<percentage>14.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mali</name>
+		<language>Ful</language>
+		<percentage>13.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>KabyÃ©</language>
+		<percentage>13.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Luhya</language>
+		<percentage>13.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gabon</name>
+		<language>Mbete</language>
+		<percentage>13.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Bassa</language>
+		<percentage>13.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Mongo</language>
+		<percentage>13.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Virgin Islands, U.S.</name>
+		<language>Spanish</language>
+		<percentage>13.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malawi</name>
+		<language>Yao</language>
+		<percentage>13.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Kongo</language>
+		<percentage>13.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Pashto</language>
+		<percentage>13.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Luxembourg</name>
+		<language>Portuguese</language>
+		<percentage>13.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Moravian</language>
+		<percentage>12.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Comoros</name>
+		<language>Comorian-French</language>
+		<percentage>12.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Luo</language>
+		<percentage>12.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gambia</name>
+		<language>Wolof</language>
+		<percentage>12.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Greenland</name>
+		<language>Danish</language>
+		<percentage>12.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Senegal</name>
+		<language>Serer</language>
+		<percentage>12.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Tsonga</language>
+		<percentage>12.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>Nama</language>
+		<percentage>12.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Arabic</language>
+		<percentage>12.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Botswana</name>
+		<language>Shona</language>
+		<percentage>12.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Joruba</language>
+		<percentage>12.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Malay</language>
+		<percentage>12.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Thailand</name>
+		<language>Chinese</language>
+		<percentage>12.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mali</name>
+		<language>Senufo and Minianka</language>
+		<percentage>12.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ghana</name>
+		<language>Ewe</language>
+		<percentage>11.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Maithili</language>
+		<percentage>11.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Sindhi</language>
+		<percentage>11.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>CÃ´te dÂ’Ivoire</name>
+		<language>Gur</language>
+		<percentage>11.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>New Caledonia</name>
+		<language>Polynesian Languages</language>
+		<percentage>11.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Dinka</language>
+		<percentage>11.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Mayo-kebbi</language>
+		<percentage>11.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo</name>
+		<language>Mboshi</language>
+		<percentage>11.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>CÃ´te dÂ’Ivoire</name>
+		<language>Malinke</language>
+		<percentage>11.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Ful</language>
+		<percentage>11.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Kamba</language>
+		<percentage>11.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Adja</language>
+		<percentage>11.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Susu</language>
+		<percentage>11.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Taiwan</name>
+		<language>Hakka</language>
+		<percentage>11.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zambia</name>
+		<language>Tongan</language>
+		<percentage>11.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uzbekistan</name>
+		<language>Russian</language>
+		<percentage>10.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Duala</language>
+		<percentage>10.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Kalenjin</language>
+		<percentage>10.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Andorra</name>
+		<language>Portuguese</language>
+		<percentage>10.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Nkole</language>
+		<percentage>10.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Djibouti</name>
+		<language>Arabic</language>
+		<percentage>10.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkey</name>
+		<language>Kurdish</language>
+		<percentage>10.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovakia</name>
+		<language>Hungarian</language>
+		<percentage>10.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>CÃ´te dÂ’Ivoire</name>
+		<language>Kru</language>
+		<percentage>10.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niger</name>
+		<language>Tamashek</language>
+		<percentage>10.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bahamas</name>
+		<language>Creole French</language>
+		<percentage>10.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Watyi</language>
+		<percentage>10.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Rwanda</language>
+		<percentage>10.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guatemala</name>
+		<language>QuichÃ©</language>
+		<percentage>10.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Saraiki</language>
+		<percentage>9.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niger</name>
+		<language>Ful</language>
+		<percentage>9.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burkina Faso</name>
+		<language>Ful</language>
+		<percentage>9.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tajikistan</name>
+		<language>Russian</language>
+		<percentage>9.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>Kavango</language>
+		<percentage>9.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belize</name>
+		<language>Maya Languages</language>
+		<percentage>9.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Ful</language>
+		<percentage>9.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chile</name>
+		<language>Araucan</language>
+		<percentage>9.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Aruba</name>
+		<language>English</language>
+		<percentage>9.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>Afrikaans</language>
+		<percentage>9.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bulgaria</name>
+		<language>Turkish</language>
+		<percentage>9.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Sena</language>
+		<percentage>9.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Ilocano</language>
+		<percentage>9.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brunei</name>
+		<language>Chinese</language>
+		<percentage>9.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palau</name>
+		<language>Philippene Languages</language>
+		<percentage>9.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gambia</name>
+		<language>Diola</language>
+		<percentage>9.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkmenistan</name>
+		<language>Uzbek</language>
+		<percentage>9.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Kurdish</language>
+		<percentage>9.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Northsotho</language>
+		<percentage>9.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Hiligaynon</language>
+		<percentage>9.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Kanem-bornu</language>
+		<percentage>9.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malaysia</name>
+		<language>Chinese</language>
+		<percentage>9.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Syria</name>
+		<language>Kurdish</language>
+		<percentage>9.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guatemala</name>
+		<language>Cakchiquel</language>
+		<percentage>8.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Israel</name>
+		<language>Russian</language>
+		<percentage>8.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Grebo</language>
+		<percentage>8.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Swahili</language>
+		<percentage>8.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Georgia</name>
+		<language>Russian</language>
+		<percentage>8.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Afghanistan</name>
+		<language>Uzbek</language>
+		<percentage>8.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Ouaddai</language>
+		<percentage>8.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mali</name>
+		<language>Soninke</language>
+		<percentage>8.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Equatorial Guinea</name>
+		<language>Bubi</language>
+		<percentage>8.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Aizo</language>
+		<percentage>8.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Bariba</language>
+		<percentage>8.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Moldova</name>
+		<language>Ukrainian</language>
+		<percentage>8.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Solomon Islands</name>
+		<language>Papuan Languages</language>
+		<percentage>8.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Shan</language>
+		<percentage>8.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nauru</name>
+		<language>Chinese</language>
+		<percentage>8.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>English</language>
+		<percentage>8.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nauru</name>
+		<language>Tuvalu</language>
+		<percentage>8.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Kiga</language>
+		<percentage>8.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Limba</language>
+		<percentage>8.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Soga</language>
+		<percentage>8.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Bengali</language>
+		<percentage>8.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Nubian Languages</language>
+		<percentage>8.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lithuania</name>
+		<language>Russian</language>
+		<percentage>8.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Tswana</language>
+		<percentage>8.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bolivia</name>
+		<language>KetÂšua</language>
+		<percentage>8.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea-Bissau</name>
+		<language>Portuguese</language>
+		<percentage>8.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>Herero</language>
+		<percentage>8.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Gio</language>
+		<percentage>7.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovenia</name>
+		<language>Serbo-Croatian</language>
+		<percentage>7.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zambia</name>
+		<language>Nyanja</language>
+		<percentage>7.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands Antilles</name>
+		<language>English</language>
+		<percentage>7.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ghana</name>
+		<language>Ga-adangme</language>
+		<percentage>7.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Laos</name>
+		<language>Thai</language>
+		<percentage>7.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Lomwe</language>
+		<percentage>7.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Telugu</language>
+		<percentage>7.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>CÃ´te dÂ’Ivoire</name>
+		<language>[South]Mande</language>
+		<percentage>7.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Switzerland</name>
+		<language>Italian</language>
+		<percentage>7.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Southsotho</language>
+		<percentage>7.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Micronesia, Federated States of</name>
+		<language>Mortlock</language>
+		<percentage>7.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gambia</name>
+		<language>Soninke</language>
+		<percentage>7.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Urdu</language>
+		<percentage>7.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Bhojpuri</language>
+		<percentage>7.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Central African Republic</name>
+		<language>Ngbaka</language>
+		<percentage>7.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nauru</name>
+		<language>English</language>
+		<percentage>7.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tuvalu</name>
+		<language>Kiribati</language>
+		<percentage>7.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Spanish</language>
+		<percentage>7.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Aruba</name>
+		<language>Spanish</language>
+		<percentage>7.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Singapore</name>
+		<language>Tamil</language>
+		<percentage>7.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Marathi</language>
+		<percentage>7.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Gibraltar</name>
+		<language>Arabic</language>
+		<percentage>7.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Tikar</language>
+		<percentage>7.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Micronesia, Federated States of</name>
+		<language>Kosrean</language>
+		<percentage>7.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mali</name>
+		<language>Tamashek</language>
+		<percentage>7.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<language>Hungarian</language>
+		<percentage>7.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Kru</language>
+		<percentage>7.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Mano</language>
+		<percentage>7.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Tigrinja</language>
+		<percentage>7.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Northern Mariana Islands</name>
+		<language>Chinese</language>
+		<percentage>7.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lithuania</name>
+		<language>Polish</language>
+		<percentage>7.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ecuador</name>
+		<language>KetÂšua</language>
+		<percentage>7.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea-Bissau</name>
+		<language>Malinke</language>
+		<percentage>6.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mali</name>
+		<language>Songhai</language>
+		<percentage>6.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Hehet</language>
+		<percentage>6.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belize</name>
+		<language>Garifuna</language>
+		<percentage>6.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Georgia</name>
+		<language>Armenian</language>
+		<percentage>6.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Hadjarai</language>
+		<percentage>6.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Somba</language>
+		<percentage>6.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malawi</name>
+		<language>Ngoni</language>
+		<percentage>6.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkmenistan</name>
+		<language>Russian</language>
+		<percentage>6.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritania</name>
+		<language>Wolof</language>
+		<percentage>6.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Tandjile</language>
+		<percentage>6.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Northern Mariana Islands</name>
+		<language>Korean</language>
+		<percentage>6.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Shona</language>
+		<percentage>6.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Monaco</name>
+		<language>English</language>
+		<percentage>6.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Central African Republic</name>
+		<language>Mbum</language>
+		<percentage>6.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zambia</name>
+		<language>Lozi</language>
+		<percentage>6.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Beja</language>
+		<percentage>6.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Central African Republic</name>
+		<language>Sara</language>
+		<percentage>6.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Spain</name>
+		<language>Galecian</language>
+		<percentage>6.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Tamil</language>
+		<percentage>6.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Karen</language>
+		<percentage>6.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chad</name>
+		<language>Gorane</language>
+		<percentage>6.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Andorra</name>
+		<language>French</language>
+		<percentage>6.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Zande</language>
+		<percentage>6.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Gusii</language>
+		<percentage>6.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Teso</language>
+		<percentage>6.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Tswa</language>
+		<percentage>6.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Kissi</language>
+		<percentage>6.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lebanon</name>
+		<language>Armenian</language>
+		<percentage>5.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Haya</language>
+		<percentage>5.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Makonde</language>
+		<percentage>5.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Lango</language>
+		<percentage>5.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mongolia</name>
+		<language>Kazakh</language>
+		<percentage>5.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Ngala and Bangi</language>
+		<percentage>5.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Micronesia, Federated States of</name>
+		<language>Yap</language>
+		<percentage>5.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Loma</language>
+		<percentage>5.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Finland</name>
+		<language>Swedish</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Ane</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zambia</name>
+		<language>Chewa</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Mandara</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Kotokoli</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Chuabo</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Bicol</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burkina Faso</name>
+		<language>Gurma</language>
+		<percentage>5.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Benin</name>
+		<language>Ful</language>
+		<percentage>5.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Ibibio</language>
+		<percentage>5.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Meru</language>
+		<percentage>5.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Comoros</name>
+		<language>Comorian-madagassi</language>
+		<percentage>5.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Georgia</name>
+		<language>Azerbaijani</language>
+		<percentage>5.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cambodia</name>
+		<language>Vietnamese</language>
+		<percentage>5.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Tharu</language>
+		<percentage>5.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Luimbe-nganguela</language>
+		<percentage>5.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Nyaneka-nkhumbi</language>
+		<percentage>5.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Moba</language>
+		<percentage>5.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritania</name>
+		<language>Tukulor</language>
+		<percentage>5.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Nyakusa</language>
+		<percentage>5.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Aruba</name>
+		<language>Dutch</language>
+		<percentage>5.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Panama</name>
+		<language>GuaymÃ­</language>
+		<percentage>5.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Gilaki</language>
+		<percentage>5.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Laos</name>
+		<language>Lao-Soung</language>
+		<percentage>5.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liberia</name>
+		<language>Malinke</language>
+		<percentage>5.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Kono-vai</language>
+		<percentage>5.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Urdu</language>
+		<percentage>5.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kazakstan</name>
+		<language>Ukrainian</language>
+		<percentage>5.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Senegal</name>
+		<language>Diola</language>
+		<percentage>5.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guatemala</name>
+		<language>KekchÃ­</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Luguru</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Chaga and Pare</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea-Bissau</name>
+		<language>Mandyako</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Tamang</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Nuer</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Maka</language>
+		<percentage>4.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo</name>
+		<language>Mbete</language>
+		<percentage>4.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Gujarati</language>
+		<percentage>4.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Northern Mariana Islands</name>
+		<language>Carolinian</language>
+		<percentage>4.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Northern Mariana Islands</name>
+		<language>English</language>
+		<percentage>4.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Nyika</language>
+		<percentage>4.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Lugbara</language>
+		<percentage>4.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Gurage</language>
+		<percentage>4.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>Caprivi</language>
+		<percentage>4.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Kpelle</language>
+		<percentage>4.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Luxembourg</name>
+		<language>Italian</language>
+		<percentage>4.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Gisu</language>
+		<percentage>4.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Rakhine</language>
+		<percentage>4.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niger</name>
+		<language>Kanuri</language>
+		<percentage>4.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uzbekistan</name>
+		<language>Tadzhik</language>
+		<percentage>4.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Acholi</language>
+		<percentage>4.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Madura</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Tsonga</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Luri</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>New Zealand</name>
+		<language>Maori</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Shambala</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Eritrea</name>
+		<language>Afar</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zambia</name>
+		<language>Nsenga</language>
+		<percentage>4.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Luxembourg</name>
+		<language>French</language>
+		<percentage>4.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Chokwe</language>
+		<percentage>4.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palestine</name>
+		<language>Hebrew</language>
+		<percentage>4.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Kanuri</language>
+		<percentage>4.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Naudemba</language>
+		<percentage>4.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Somali</language>
+		<percentage>4.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Latvia</name>
+		<language>Belorussian</language>
+		<percentage>4.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macedonia</name>
+		<language>Turkish</language>
+		<percentage>4.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malaysia</name>
+		<language>Tamil</language>
+		<percentage>3.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cameroon</name>
+		<language>Masana</language>
+		<percentage>3.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Kannada</language>
+		<percentage>3.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Gogo</language>
+		<percentage>3.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Senegal</name>
+		<language>Malinke</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Solomon Islands</name>
+		<language>Polynesian Languages</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Seychelles</name>
+		<language>English</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uzbekistan</name>
+		<language>Kazakh</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Rundi</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Eritrea</name>
+		<language>Hadareb</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Bullom-sherbro</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Waray-waray</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Ful</language>
+		<percentage>3.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Ronga</language>
+		<percentage>3.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Newari</language>
+		<percentage>3.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Micronesia, Federated States of</name>
+		<language>Wolea</language>
+		<percentage>3.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands</name>
+		<language>Fries</language>
+		<percentage>3.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bulgaria</name>
+		<language>Romani</language>
+		<percentage>3.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Thailand</name>
+		<language>Malay</language>
+		<percentage>3.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Malajalam</language>
+		<percentage>3.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Mazandarani</language>
+		<percentage>3.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Luvale</language>
+		<percentage>3.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Botswana</name>
+		<language>San</language>
+		<percentage>3.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tanzania</name>
+		<language>Ha</language>
+		<percentage>3.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Marendje</language>
+		<percentage>3.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burkina Faso</name>
+		<language>Busansi</language>
+		<percentage>3.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Yalunka</language>
+		<percentage>3.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Trinidad and Tobago</name>
+		<language>Hindi</language>
+		<percentage>3.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yugoslavia</name>
+		<language>Hungarian</language>
+		<percentage>3.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sierra Leone</name>
+		<language>Kuranko</language>
+		<percentage>3.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritius</name>
+		<language>French</language>
+		<percentage>3.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Togo</name>
+		<language>Gurma</language>
+		<percentage>3.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guam</name>
+		<language>Korean</language>
+		<percentage>3.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ghana</name>
+		<language>Gurma</language>
+		<percentage>3.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Edo</language>
+		<percentage>3.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mozambique</name>
+		<language>Nyanja</language>
+		<percentage>3.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Orija</language>
+		<percentage>3.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tunisia</name>
+		<language>Arabic-French-English</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bolivia</name>
+		<language>AimarÃ¡</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Sidamo</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palau</name>
+		<language>English</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Moldova</name>
+		<language>Gagauzi</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uganda</name>
+		<language>Rwanda</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Tatar</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Paraguay</name>
+		<language>Portuguese</language>
+		<percentage>3.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>American Samoa</name>
+		<language>Tongan</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brunei</name>
+		<language>English</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>American Samoa</name>
+		<language>English</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Slovak</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cambodia</name>
+		<language>Chinese</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kazakstan</name>
+		<language>German</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burkina Faso</name>
+		<language>Dagara</language>
+		<percentage>3.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Eritrea</name>
+		<language>Bilin</language>
+		<percentage>3.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nepal</name>
+		<language>Hindi</language>
+		<percentage>3.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Balochi</language>
+		<percentage>3.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Azerbaijan</name>
+		<language>Russian</language>
+		<percentage>3.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Pampango</language>
+		<percentage>3.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Eritrea</name>
+		<language>Saho</language>
+		<percentage>3.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>French Polynesia</name>
+		<language>Chinese</language>
+		<percentage>2.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Trinidad and Tobago</name>
+		<language>Creole English</language>
+		<percentage>2.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Yalunka</language>
+		<percentage>2.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Latvia</name>
+		<language>Ukrainian</language>
+		<percentage>2.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo</name>
+		<language>Punu</language>
+		<percentage>2.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>RÃ©union</name>
+		<language>Chinese</language>
+		<percentage>2.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Punjabi</language>
+		<percentage>2.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ethiopia</name>
+		<language>Walaita</language>
+		<percentage>2.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>RÃ©union</name>
+		<language>Comorian</language>
+		<percentage>2.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malaysia</name>
+		<language>Iban</language>
+		<percentage>2.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Estonia</name>
+		<language>Ukrainian</language>
+		<percentage>2.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Teke</language>
+		<percentage>2.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Zande</language>
+		<percentage>2.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>Sardinian</language>
+		<percentage>2.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mongolia</name>
+		<language>Dorbet</language>
+		<percentage>2.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guatemala</name>
+		<language>Mam</language>
+		<percentage>2.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritania</name>
+		<language>Soninke</language>
+		<percentage>2.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Armenia</name>
+		<language>Azerbaijani</language>
+		<percentage>2.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo</name>
+		<language>Sango</language>
+		<percentage>2.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burkina Faso</name>
+		<language>Dyula</language>
+		<percentage>2.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bulgaria</name>
+		<language>Macedonian</language>
+		<percentage>2.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<language>Turkish</language>
+		<percentage>2.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Chinese</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Bari</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Botswana</name>
+		<language>Khoekhoe</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<language>Arabic</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liechtenstein</name>
+		<language>Italian</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Virgin Islands, U.S.</name>
+		<language>French</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Swazi</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Liechtenstein</name>
+		<language>Turkish</language>
+		<percentage>2.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Georgia</name>
+		<language>Osseetti</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Ambo</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Hindko</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Angola</name>
+		<language>Luchazi</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cambodia</name>
+		<language>TÂšam</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Mon</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belgium</name>
+		<language>Italian</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Minangkabau</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<language>Finnish</language>
+		<percentage>2.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Boa</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Azerbaijan</name>
+		<language>Lezgian</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Balochi</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kazakstan</name>
+		<language>Uzbek</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Luxembourg</name>
+		<language>German</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guinea</name>
+		<language>Loma</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Tiv</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Peru</name>
+		<language>AimarÃ¡</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macedonia</name>
+		<language>Romani</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macao</name>
+		<language>Portuguese</language>
+		<percentage>2.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Batakki</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guyana</name>
+		<language>Caribbean</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Arabic</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Bugi</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hong Kong</name>
+		<language>English</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Serbo-Croatian</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zimbabwe</name>
+		<language>Nyanja</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Venda</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>Italian</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Zimbabwe</name>
+		<language>English</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Chin</language>
+		<percentage>2.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Fur</language>
+		<percentage>2.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Latvia</name>
+		<language>Polish</language>
+		<percentage>2.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malta</name>
+		<language>English</language>
+		<percentage>2.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uzbekistan</name>
+		<language>Karakalpak</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Dominican Republic</name>
+		<language>Creole French</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macedonia</name>
+		<language>Serbo-Croatian</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Costa Rica</name>
+		<language>Creole English</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkmenistan</name>
+		<language>Kazakh</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Azerbaijan</name>
+		<language>Armenian</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kazakstan</name>
+		<language>Tatar</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guam</name>
+		<language>Japanese</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Panama</name>
+		<language>Cuna</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Swaziland</name>
+		<language>Zulu</language>
+		<percentage>2.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jamaica</name>
+		<language>Hindi</language>
+		<percentage>1.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mongolia</name>
+		<language>Bajad</language>
+		<percentage>1.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Afghanistan</name>
+		<language>Turkmenian</language>
+		<percentage>1.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>French Guiana</name>
+		<language>Indian Languages</language>
+		<percentage>1.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hong Kong</name>
+		<language>Fukien</language>
+		<percentage>1.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>San</language>
+		<percentage>1.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Pangasinan</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uzbekistan</name>
+		<language>Tatar</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Ijo</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Congo, The Democratic Republic of the</name>
+		<language>Chokwe</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Banja</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<language>NÃ¡huatl</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Tho</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Albania</name>
+		<language>Greek</language>
+		<percentage>1.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Bakhtyari</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Chilluk</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Argentina</name>
+		<language>Italian</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Italian</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Indonesia</name>
+		<language>Bali</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iraq</name>
+		<language>Azerbaijani</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovakia</name>
+		<language>Romani</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Georgia</name>
+		<language>Abhyasi</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mongolia</name>
+		<language>Buryat</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Ukrainian</language>
+		<percentage>1.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belgium</name>
+		<language>Arabic</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palau</name>
+		<language>Chinese</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malaysia</name>
+		<language>English</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Spain</name>
+		<language>Basque</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nicaragua</name>
+		<language>Miskito</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hong Kong</name>
+		<language>Hakka</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Moldova</name>
+		<language>Bulgariana</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nigeria</name>
+		<language>Bura</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iran</name>
+		<language>Turkmenian</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>Greek</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Thai</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Comoros</name>
+		<language>Comorian-Arabic</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Masai</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>German</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ireland</name>
+		<language>Irish</language>
+		<percentage>1.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sudan</name>
+		<language>Lotuko</language>
+		<percentage>1.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Turkish</language>
+		<percentage>1.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>India</name>
+		<language>Asami</language>
+		<percentage>1.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Africa</name>
+		<language>Ndebele</language>
+		<percentage>1.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Muong</language>
+		<percentage>1.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mongolia</name>
+		<language>Dariganga</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Maguindanao</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yugoslavia</name>
+		<language>Romani</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>RÃ©union</name>
+		<language>Malagasy</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<language>Southern Slavic Languages</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hong Kong</name>
+		<language>Chiu chau</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Kachin</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lithuania</name>
+		<language>Belorussian</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turkey</name>
+		<language>Arabic</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Zhuang</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Chinese</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Estonia</name>
+		<language>Belorussian</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Khmer</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guyana</name>
+		<language>Arawakan</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kenya</name>
+		<language>Turkana</language>
+		<percentage>1.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ghana</name>
+		<language>Joruba</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belarus</name>
+		<language>Ukrainian</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Thailand</name>
+		<language>Khmer</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Philippines</name>
+		<language>Maranao</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Poland</name>
+		<language>German</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<language>Southern Slavic Languages</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Tatar</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Ukrainian</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Seychelles</name>
+		<language>French</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Botswana</name>
+		<language>Ndebele</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Senegal</name>
+		<language>Soninke</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Honduras</name>
+		<language>Garifuna</language>
+		<percentage>1.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritius</name>
+		<language>Hindi</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<language>Portuguese</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Latvia</name>
+		<language>Lithuanian</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macao</name>
+		<language>Mandarin Chinese</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritania</name>
+		<language>Zenaga</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pakistan</name>
+		<language>Brahui</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>Friuli</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritania</name>
+		<language>Ful</language>
+		<percentage>1.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Nung</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>Canton Chinese</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Thailand</name>
+		<language>Kuy</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lithuania</name>
+		<language>Ukrainian</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovakia</name>
+		<language>Czech and Moravian</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<language>Yucatec</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malaysia</name>
+		<language>Dusun</language>
+		<percentage>1.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belgium</name>
+		<language>German</language>
+		<percentage>1.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>Arabic</language>
+		<percentage>1.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Libyan Arab Jamahiriya</name>
+		<language>Berberi</language>
+		<percentage>1.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jordan</name>
+		<language>Circassian</language>
+		<percentage>1.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jordan</name>
+		<language>Armenian</language>
+		<percentage>1.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Chuvash</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Namibia</name>
+		<language>German</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Paraguay</name>
+		<language>German</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United Kingdom</name>
+		<language>Kymri</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Greece</name>
+		<language>Turkish</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Afghanistan</name>
+		<language>Balochi</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Miao</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>MantÂšu</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belgium</name>
+		<language>Turkish</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands</name>
+		<language>Arabic</language>
+		<percentage>0.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iraq</name>
+		<language>Assyrian</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iraq</name>
+		<language>Persian</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Kazakh</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kyrgyzstan</name>
+		<language>Tadzhik</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Hui</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<language>Arabic</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>Vietnamese</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>Turkish</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritius</name>
+		<language>Tamil</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands</name>
+		<language>Turkish</language>
+		<percentage>0.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Miao</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Romanian</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Bashkir</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Vietnam</name>
+		<language>Man</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Estonia</name>
+		<language>Finnish</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Punjabi</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mauritius</name>
+		<language>Marathi</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<language>Romani</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<language>Italian</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Polish</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>French</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Spanish</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>Arabic</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sao Tome and Principe</name>
+		<language>French</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yugoslavia</name>
+		<language>Slovak</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Portuguese</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>German</language>
+		<percentage>0.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Switzerland</name>
+		<language>Romansh</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<language>Zapotec</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovakia</name>
+		<language>Ukrainian and Russian</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Yi</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>German</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Poland</name>
+		<language>Ukrainian</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Australia</name>
+		<language>Serbo-Croatian</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Panama</name>
+		<language>Arabic</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Italian</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Panama</name>
+		<language>Embera</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Samoa</name>
+		<language>English</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<language>Mixtec</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Belarus</name>
+		<language>Polish</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Polish</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Taiwan</name>
+		<language>Ami</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Uighur</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Chechen</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Chinese</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<language>Spanish</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Ukrainian</language>
+		<percentage>0.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<language>Romani</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<language>Korean</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Poland</name>
+		<language>Belorussian</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<language>Norwegian</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>German</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Macao</name>
+		<language>English</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Mordva</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chile</name>
+		<language>AimarÃ¡</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kiribati</name>
+		<language>Tuvalu</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>German</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Tujia</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Slovenia</name>
+		<language>Hungarian</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Dutch</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>French</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brazil</name>
+		<language>German</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Comoros</name>
+		<language>Comorian-Swahili</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norway</name>
+		<language>English</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>German</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yugoslavia</name>
+		<language>Macedonian</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nicaragua</name>
+		<language>Creole English</language>
+		<percentage>0.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Myanmar</name>
+		<language>Kayah</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Venezuela</name>
+		<language>Goajiro</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<language>Italian</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<language>OtomÃ­</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Tibetan</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Silesiana</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<language>Turkish</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<language>Greek</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Colombia</name>
+		<language>Chibcha</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brazil</name>
+		<language>Italian</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norway</name>
+		<language>Danish</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Tagalog</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Finland</name>
+		<language>Russian</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<language>German</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Mongolian</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Kazakh</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Hungarian</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brazil</name>
+		<language>Japanese</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<language>German</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<language>Spanish</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Avarian</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Taiwan</name>
+		<language>Atayal</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Mari</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Chakma</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Slovene</language>
+		<percentage>0.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Bulgariana</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Taiwan</name>
+		<language>Paiwan</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Udmur</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Polish</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>English</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>Swedish</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Hungarian</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<language>Ukrainian</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Russian Federation</name>
+		<language>Belorussian</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Costa Rica</name>
+		<language>Chibcha</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norway</name>
+		<language>Swedish</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Argentina</name>
+		<language>Indian Languages</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Belorussian</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Romani</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<language>Polish</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Korean</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<language>Norwegian</language>
+		<percentage>0.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<language>Chinese</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chile</name>
+		<language>Rapa nui</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Dong</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>Albaniana</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Romanian</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Honduras</name>
+		<language>Miskito</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Japanese</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Honduras</name>
+		<language>Creole English</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>Slovene</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Portuguese</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States</name>
+		<language>Vietnamese</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Finland</name>
+		<language>Estonian</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<language>Serbo-Croatian</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Czech Republic</name>
+		<language>Hungarian</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<language>Puyi</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nicaragua</name>
+		<language>Sumo</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Czech</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brazil</name>
+		<language>Indian Languages</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<language>Romani</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<language>Polish</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Marma</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Costa Rica</name>
+		<language>Chinese</language>
+		<percentage>0.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<language>Slovak</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<language>Serbo-Croatian</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Canada</name>
+		<language>Eskimo Languages</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>North Korea</name>
+		<language>Chinese</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Albania</name>
+		<language>Macedonian</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Garo</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Santhali</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<language>English</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<language>Romanian</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<language>Philippene Languages</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Korea</name>
+		<language>Chinese</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Colombia</name>
+		<language>Arawakan</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bolivia</name>
+		<language>GuaranÃ­</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Colombia</name>
+		<language>Creole English</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Khasi</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<language>Tripuri</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Venezuela</name>
+		<language>Warrau</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ukraine</name>
+		<language>Polish</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Colombia</name>
+		<language>Caribbean</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United Kingdom</name>
+		<language>Gaeli</language>
+		<percentage>0.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Montserrat</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands Antilles</name>
+		<language>Dutch</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Turks and Caicos Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>East Timor</name>
+		<language>Portuguese</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burundi</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cayman Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Kitts and Nevis</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Madagascar</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norfolk Island</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Pierre and Miquelon</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Holy See (Vatican City State)</name>
+		<language>Italian</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Falkland Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Maldives</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Suriname</name>
+		<language>Hindi</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Virgin Islands, British</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Oman</name>
+		<language>Balochi</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cook Islands</name>
+		<language>Maori</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United States Minor Outlying Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guadeloupe</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niue</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Svalbard and Jan Mayen</name>
+		<language>Russian</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Anguilla</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Dominica</name>
+		<language>Creole French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tokelau</name>
+		<language>Tokelau</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cocos (Keeling) Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cape Verde</name>
+		<language>Portuguese</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norway</name>
+		<language>Saame</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Pitcairn</name>
+		<language>Pitcairnese</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Croatia</name>
+		<language>Slovene</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>El Salvador</name>
+		<language>Nahua</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>East Timor</name>
+		<language>Sunda</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Christmas Island</name>
+		<language>Chinese</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lesotho</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United Arab Emirates</name>
+		<language>Hindi</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Somalia</name>
+		<language>Arabic</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Egypt</name>
+		<language>Sinaberberi</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kuwait</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>RÃ©union</name>
+		<language>Tamil</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tuvalu</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Faroe Islands</name>
+		<language>Danish</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iceland</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Marshall Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Helena</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Niue</name>
+		<language>Niue</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Barbados</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cocos (Keeling) Islands</name>
+		<language>Malay</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Wallis and Futuna</name>
+		<language>Futuna</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Haiti</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<language>Ainu</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Martinique</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tonga</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yemen</name>
+		<language>Soqutri</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Christmas Island</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Finland</name>
+		<language>Saame</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Qatar</name>
+		<language>Urdu</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burundi</name>
+		<language>Swahili</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bahrain</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Vincent and the Grenadines</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Antigua and Barbuda</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cook Islands</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lebanon</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Svalbard and Jan Mayen</name>
+		<language>Norwegian</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tokelau</name>
+		<language>English</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Rwanda</name>
+		<language>French</language>
+		<percentage>0.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Wallis and Futuna</name>
+		<language>Wallis</language>
+		<percentage>0.0</percentage>
+	</ROW>
+</DATA>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Edit Product</title>
+	</head>
+	<body>
+    <h1>Edit Product {{product.id}}</h1>
+    <form action="{% url 'products:update' id=product.id %}" method='post'>
+        {% csrf_token %}
+        Name: <input type='text' name='name' value='{{product.name}}'>
+        <br>
+        Description:<textarea name='description' value='{{product.description}}' rows= '10' cols='60'></textarea>
+        <br>
+        Price:<input type='text' name='price' value='{{product.price}}'>
+        <br>
+      <input type='submit' value='Update'>
+    </form>
+    <form action="{% url 'products:show' id=product.id %}" method='post'>
+      {% csrf_token %}
+      <input type='submit' value='Show'>
+    </form>
+    <form action="{% url 'products:index' %}" method='post'>
+      {% csrf_token %}
+      <input type='submit' value='Go Back'>
+    </form>
+  </body>
+</html>

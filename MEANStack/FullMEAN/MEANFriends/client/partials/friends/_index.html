@@ -1,0 +1,19 @@
+<div ng-init="index()">
+  <table>
+    <thead>
+      <th>Name</th>
+      <th>Show</th>
+      <th>Update</th>
+      <th>Delete</th>
+    </thead>
+    <tbody>
+      <tr ng-repeat= "friend in friends track by $index">
+        <td>{{ friend.first_name }} {{ friend.last_name }}</td>
+        <td><a href="#!/friends/{{ friend._id }}">Show</a></td>
+        <td><a href="#!/friends/{{ friend._id }}/edit">Edit</a></td>
+        <td><button ng-click="destroyFriend(friend)">Delete</button></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<a href="#!/friends/new">New Friend</a>

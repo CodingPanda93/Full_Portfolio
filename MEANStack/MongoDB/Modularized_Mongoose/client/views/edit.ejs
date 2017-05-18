@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Edit</title>
+</head>
+<body>
+  <h1>Edit #<%= animal.animal %>!</h1>
+  <form action="/mongooses/<%= animal.id %>" method='post'>
+    Name: <input type="text" name="animal" value="<%= animal.animal %>">
+    Weight: <input type="text" name="age" value="<%= animal.age %>">
+    Color: <input type="text" name="num_of_legs" value="<%= animal.num_of_legs %>">
+    <input type="submit" value="Edit animal!">
+  </form>
+  <a href="/">Home</a>
+</body>
+</html>

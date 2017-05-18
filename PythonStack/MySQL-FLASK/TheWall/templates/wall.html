@@ -1,0 +1,53 @@
+<html>
+    <head>
+      <meta charset="utf-8">
+      <title>The Wall</title>
+      <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    </head>
+    <body>
+      <div class="top_page">
+        <h1> Coding Dojo Wall </h1>
+        <h4> Welcome {{ session['user']['first_name'] }} </h4>
+      </div>
+      <div class="messages">
+        <h3>Post Your Message</h3>
+        <textarea rows="6" cols="100">Post Your Message Here</textarea>
+        <form action="/messages" method="post">
+          <input type="submit" value="Post a message">
+        </form>
+      </div>
+      <label for="comment">Post a Comment</label>
+        <input type="text" id="comment" name="comment">
+        <textarea rows="6" cols="100">Post Your Commnt Here</textarea>
+      <div class="content">
+        {% if messages %}
+          {% for message in messages %}
+            <div class="post">
+              <div class="message">
+                <h5>{{ message['username'] }} - {{ message['date_posted'] }}</h4>
+                <p>{{ message['message'] }}</p>
+              </div>
+              {% if comments %}
+                {% for comment in comments %}
+                  {% if comment['messages_id'] == message['id'] %}
+                    <div class="comment">
+                      <h5>{{ comment['username'] }} - {{ comment['date_posted'] }}</h5>
+                      <p>{{ comment['comment'] }}</p>
+                    </div>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+              <div class="post_comment">
+                <h4>Post a comment</h4>
+                <textarea name="comment" rows="6" cols="100" form="comment_form_{{ message['id'] }}"></textarea>
+                <form action="/comments" method="post" id="comment_form_{{ message['id' ]}}">
+                  <input type="hidden" name="message_id" value="{{ message['id'] }}">
+                  <input type="submit" value="Post a comment">
+                </form>
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </body>
+</html>

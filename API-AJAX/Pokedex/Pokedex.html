@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Pokedex</title>
+    <meta name="description" content="Pokedex">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  </head>
+  <script type= "text/javascript">
+    $(document).ready(function(){
+      for(var i=1; i<152; i++){
+        $('#pokemon').append('<img id='+ i + ' ' + 'src="http://pokeapi.co/media/img/' + i + '.png">')
+        console.log('<img id=' + i + ' ' + 'src="http://pokeapi.co/media/img/' + i + '.png">')
+      }
+        $('img').click(function(){
+          var poke= $(this).attr('id');
+          $.get("http://pokeapi.co/api/v1/pokemon/" + poke + '/', function(res){
+            var info= "";
+            info +="<h1>" + res.name + "<h1>";
+            info +='<img src="http://pokeapi.co/media/img/' + poke + '.png">'
+            info +="<h4>Types</h4>"
+            info +="<ul>";
+            for(var x = 0; x < res.types.length; x++){
+              info += "<li>" + res.types[x].name + "</li>";
+            }
+            info +="</ul>";
+            info +="<h4>Height</h4>";
+            info +="<p>" + res.height + "</p>";
+            info +="<h4>Weight</h4>";
+            info +="<p>" + res.weight + "</p>";
+            $('#pokedex').html(info);
+          } , 'json');
+          })
+        });
+  </script>
+  <style>
+    #pokemon {
+      width: 60%;
+      margin: 10px;
+      display: inline-block;
+    }
+    #pokemon img {
+      display: inline-block;
+    }
+    #pokedex {
+      width: 25%;
+      height: 500px;
+      border: 20px solid red;
+      margin: 10px;
+      padding: 15px 10px 15px 20px;
+      display: inline-block;
+      vertical-align: top;
+    }
+    #pokedex img{
+      padding-left: 50px;
+    }
+    #pokedex h1 {
+      text-align: center;
+    }
+  </style>
+  <body>
+    <div id="pokemon"></div>
+    <div id="pokedex"></div>
+  </body>

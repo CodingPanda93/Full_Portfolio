@@ -1,0 +1,12 @@
+<div ng-init="getFriend()">
+  <h1>Edit/Update Friend </h1>
+  <form ng-submit="updateFriend()">
+    First Name: <input type="text" value="friend.first_name" ng-model="friend.first_name">
+    <br>
+    Last Name: <input type="text" value="friend.last_name" ng-model="friend.last_name">
+    <br>
+    Birthday: <input type="date" value="friend.birthday" ng-model="friend.birthday">
+    <br>
+    <input type="submit" value="Update Friend">
+  </form>
+</div>

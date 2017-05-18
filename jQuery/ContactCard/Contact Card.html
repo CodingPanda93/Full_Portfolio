@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Contact Card</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $("form").submit(function(){
+          event.preventDefault()
+          var info = "<div>"
+          info += "<h2>" + $("input[name='fname']").val() + " " + "$("input[name='lname']").val()" + "</h2>"
+          info += "<p>" + $("textarea[name='description']").val() + "</p>"
+          $(".card-box").append(info);
+          $("input[type='text'], textarea").val(null);
+        });
+      });
+    </script>
+    <style>
+      form, .card-box {
+        display: inline-block;
+        vertical-align: top;
+        width: 48%;
+      }
+      form input, form label, textarea {
+        display: block;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <form>
+        <label for="fname">First Name:</label>
+          <input type="text" name="fname" value="" placeholder="John">
+        <label for="lname">Last Name:</label>
+          <input type="text" name="lname" value="" placeholder="Snow">
+        <label for="descripton">Description:</label>
+          <textarea name="description" rows="8" cols="30"></textarea>
+        <input type="submit" name="" value="Add User">
+      </form>
+      <div class="card-box">
+
+      </div>
+    </div>
+  </body>
+</html>

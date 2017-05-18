@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Welcome</title>
+        {% load staticfiles %}
+        <link rel="stylesheet" href="{% static 'login_registration/style.css' %}">
+    </head>
+    <body>
+        <div class="wrapper">
+            <h2>Welcome!</h2>
+            <div class="login_registration_form">
+                <p class="form_title">Register</p>
+                <form action="{% url 'login_registration:create' %}" method="POST">
+                    {% csrf_token %}
+                    <label for="name">Name:</label>
+                    <input type="text" name="name">
+                    {% if messages %}
+                        {% for message in messages %}
+                            {% if message.tags == 'name error' %}
+                                <p class="error">{{ message }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    <label for="alias">Alias:</label>
+                    <input type="text" name="alias">
+                    {% if messages %}
+                        {% for message in messages %}
+                            {% if message.tags == 'alias error' %}
+                                <p class="error">{{ message }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    <label for="email">Email:</label>
+                    <input type="text" name="email">
+                    {% if messages %}
+                        {% for message in messages %}
+                            {% if message.tags == 'email error' %}
+                                <p class="error">{{ message }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    <label for="password">Password:</label>
+                    <input type="password" name="password">
+                    {% if messages %}
+                        {% for message in messages %}
+                            {% if message.tags == 'password error' %}
+                                <p class="error">{{ message }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    <label for="confirm_password">Confirm PW:</label>
+                    <input type="password" name="confirm_password">
+                    {% if messages %}
+                        {% for message in messages %}
+                            {% if message.tags == 'confirm_password error' %}
+                                <p class="error">{{ message }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    <input class="btn" type="submit" value="Register">
+                </form>
+            </div>
+
+            <div class="login_registration_form">
+                <p class="form_title">Login</p>
+                <form action="{% url 'login_registration:login' %}" method="POST">
+                    {% csrf_token %}
+                    <label for="email">Email:</label>
+                    <input type="text" name="email">
+                    <label for="password">Password:</label>
+                    <input type="password" name="password">
+                    {% if messages %}
+                        {% for message in messages %}
+                            {% if message.tags == 'login error' %}
+                                <p class="error">{{ message }}</p>
+                            {% endif %}
+                        {% endfor %}
+                    {% endif %}
+                    <input class="btn" type="submit" value="Login">
+                </form>
+            </div>
+        </div>
+    </body>
+</html>

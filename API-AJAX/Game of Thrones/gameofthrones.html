@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Game of Thrones</title>
+    <link rel="stylesheet" type="text/css"  href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    </script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("img").click(function() {
+          // clears current house info
+          $(".house_info > *").remove();
+          $(".house_info").css("width", "500px");
+          $(".house_info").css("border", "1px solid black");
+          var id = $(this).attr("id");
+          $.get("http://anapioficeandfire.com/api/houses/" + id, function(res) {
+            $(".house_info").append("<p>Name: " + res.name + "</p>");
+            $(".house_info").append("<p>Region: " + res.region + "</p>");
+            $(".house_info").append("<p>Words: " + res.words + "</p>");
+            $(".house_info").append("<p>Coat of Arms: " + res.coatOfArms + "</p>");
+            $(".house_info").append("<p>Titles: </p><ul id=titles></ul>");
+            for (var i = 0; i < res["titles"].length; i++) {
+              $("#titles").append("<li>" + res["titles"][i] + "</li>");
+            }
+            $(".house_info").append("<p>Seats: " + res.seats + "</p>");
+            $(".house_info").append("<p>Ancestral Weapons: " + res.ancestralWeapons + "</p>");
+            // gets the House's current lord if there is one
+            if (res.currentLord !== "") {
+              var currentLord = res.currentLord;
+              $.get(currentLord, function(res) {
+                $(".house_info").append("<p>Current Lord: " + res.name + "</p>");
+              }, "json");
+            }
+            // gets the House's overlord if there is one
+            if (res.overlord !== "") {
+              var overlord = res.overlord;
+              $.get(overlord, function(res) {
+                $(".house_info").append("<p>Overlord: " + res.name + "</p>");
+              }, "json");
+              $(".house_info").append("<p>Founded: " + res.founded + "</p>");
+              var founder = res.founder;
+              $.get(founder, function(res) {
+                $(".house_info").append("<p>Founder: " + res.name);
+              }, "json");
+            }
+            // gets a list of the House's cadet branches
+            $(".house_info").append("<p>Cadet Branches:</p> <ul id=cadets></ul>");
+            if (res.cadetBranches !== []) {
+              for (var i = 0; i < res.cadetBranches.length; i++) {
+                var cadets = res.cadetBranches[i];
+                $.get(cadets, function(res) {
+                  $("#cadets").append("<li>" + res.name + "</li>");
+                }, "json");
+              }
+            }
+            // gets a list of the House's sworn members
+            $(".house_info").append("<p>Sworn Members: </p><ul id=members></ul");
+            if (res.swornMembers !== []) {
+              for (var i = 0; i < res.swornMembers.length; i++) {
+                var members = res.swornMembers[i];
+                $.get(members, function(res) {
+                  $("#members").append("<li>" + res.name + "</li>");
+                }, "json");
+              }
+            }
+          }, "json");
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div class="house_banners">
+      <img src="images/baratheon.png" alt="House Baratheon" id="15">
+      <img src="images/lannister.jpg" alt="House Lannister" id="229">
+      <img src="images/stark.jpg" alt="House Stark" id="362">
+      <img src="images/targaryen.jpg" alt="House Targaryen" id="378">
+    </div>
+    <div class="house_info">
+    </div>
+  </body>
+</html>

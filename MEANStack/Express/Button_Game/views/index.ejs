@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Survey Form Revisted</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type ="text/javascript" src="/socket.io/socket.io.js"></script>
+    <script type ="text/javascript">
+      $(document).ready(function (){
+        var count = 0
+        var socket = io.connect();
+        $("#epic").click(function (){
+          socket.emit('epic_button', {count: 1})
+        })
+        $("#reset").click(function (){
+          socket.emit('reset_button', {id: event.target.id})
+        });
+        socket.on('update_count', function (){
+          count += 1;
+        $("#counter").html("<h1>The button has been pushed " + count + " times.</h1>");
+        });
+        socket.on('reset_count', function (){
+          count = 0;
+        $("#counter").html("<h1>The button has been pushed 0 times.</h1>");
+        });
+      });
+    </script>
+</head>
+<body>
+    <div id="counter"><h1>The button has been pushed <%=count%> times.</h1></div>
+    <button id="epic_button" type="button" name="submit">Push the Epic Button!</button>
+    <button id="reset" type="button" name="submit">Push the Epic Button!</button>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<div ng-init="getNinjas()">
+  <a href='#!/ninjas/new'>Create Ninja</a>
+  <table>
+    <thead>
+      <th>Name</th>
+      <th>Location</th>
+      <th>Belt</th>
+      <th>Actions</th>
+    </thead>
+    <tbody>
+      <tr ng-repeat="ninja in ninjas">
+        <td><a href="#!/ninjas/{{ninja._id}}">{{ninja.name}}</a></td>
+        <td>{{ninja.location}}</td>
+        <td>{{ninja.belt}}</td>
+        <td>
+          <a href="#!/ninjas/{{ninja._id}}/edit"><button>Edit Ninja</button></a>
+          <button ng-click='deleteNinja(ninja)'>Delete</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

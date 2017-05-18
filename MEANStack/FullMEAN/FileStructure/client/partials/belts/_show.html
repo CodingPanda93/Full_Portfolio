@@ -1,0 +1,17 @@
+<div>
+  <table>
+    <thead>
+      <th>Name</th>
+      <th>Level</th>
+      <th>Actions</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{{belt.name}}</td>
+        <td>{{belt.level}}</td>
+        <td>
+          <a href="#!/belts/{{belt._id}}/edit"><button>Edit Belt</button></a>
+          <button ng-click='deleteBelt(belt)'>Delete</button>
+        </td>
+    </tbody>
+</div>

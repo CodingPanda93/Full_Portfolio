@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Books Home</title>
+        {% load staticfiles %}
+        <link rel="stylesheet" href="{% static 'book_reviews/css/style.css' %}">
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="nav">
+                <p>Welcome, {{ request.session.user.alias }}!</p>
+                <a href="{% url 'book_reviews:add_book' %}">Add Book and Review</a>
+                <a href="{% url 'login_registration:logout' %}">Logout</a>
+            </div>
+
+            <div class="reviews">
+                <h3>Recent Book Reviews:</h3>
+                {% for review in recent_reviews %}
+                    <div class="book_review">
+                        <a href="{% url 'book_reviews:show_book' id=review.book.id %}">{{ review.book.title }}</a>
+                        <p class="rating">Rating:
+                            {% for num in '12345' %}
+                                {% if num <= review.rating|stringformat:"i" %}
+                                    <img src="{% static 'book_reviews/images/star_1.jpg' %}" alt="star">
+                                {% else %}
+                                    <img src="{% static 'book_reviews/images/star_0.jpg' %}" alt="star">
+                                {% endif %}
+                            {% endfor %}
+                        </p>
+                        <p><a href="{% url 'login_registration:user_reviews' id=review.user.id %}">{{ review.user.alias }}</a> says: <em>{{ review.content }}</em></p>
+                        <p><em>Posted on {{ review.created_at|date:'F d, Y' }}</em></p>
+                    </div>
+                {% endfor %}
+
+            </div>
+
+            <div class="reviews">
+                <h3>Other Books with Reviews:</h3>
+                {% if all_books %}
+                <div class="book_list">
+                    {% for book in all_books %}
+                        <a href="{% url 'book_reviews:show_book' id=book.id %}">{{ book.title }}</a>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+
+        </div>
+
+    </body>
+</html>

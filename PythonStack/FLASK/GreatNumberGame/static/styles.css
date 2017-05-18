@@ -1,0 +1,25 @@
+.wrapper {
+  width: 600px auto;
+}
+h1, p {
+  text-align: center;
+}
+.right_box {
+  height: 300px;
+  width: 300px;
+  color: green;
+  border: solid black 2px;
+}
+
+input[type="submit"] {
+  display: inherit;
+  margin: 10px auto;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}

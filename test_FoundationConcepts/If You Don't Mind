@@ -1,0 +1,26 @@
+//If the minute is less than 30, then reply with "just after"
+//Else if the minute is over 30, then reply with "almost" the HOUR++
+function time (HOUR,MINUTE,PERIOD) {
+var HOUR = ;
+var MINUTE = ;
+var PERIOD =  ;
+
+if (b < 30) {
+  if (c == "PM") {
+    console.log ("It's just after", HOUR, "in the evening")
+    }
+  else (c == "AM"){
+    console.log ("It's just after", HOUR, "in the morning")
+    }
+  }
+else {
+  if (c == "PM") {
+    HOUR = HOUR++
+    console.log("It's almost", HOUR, "in the evening")
+   }
+  else (c == "AM") {
+    HOUR = HOUR++
+    console.log("It's almost", HOUR, "in the morning")
+  }
+  }
+}

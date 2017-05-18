@@ -1,0 +1,8 @@
+<div>
+  <a href="#!/animals/new">New Animal</a>
+
+  <ul>
+    <li ng-repeat= 'animal in animals track by $index'>
+      <a href='#!/animals/{{$index}}'>{{animal.name}}</a>
+  </ul>
+</div>

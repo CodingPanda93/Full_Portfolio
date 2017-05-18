@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Survey Form Revisted</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type ="text/javascript" src="/socket.io/socket.io.js"></script>
+    <script type ="text/javascript">
+        $(document).ready(function (){
+            // this triggers the connection event in our server!
+            var socket = io.connect();
+            $('#submit').click(function (){
+                  var name = document.getElementById('name');
+                  var location = document.getElementById('location');
+                  var language = document.getElementById('language');
+                  var comment = document.getElementById('comment');
+                  socket.emit('posting_form', {name: name.value, location: location.value, language: language.value, comment: comment.value });
+                });
+            socket.on('updated_message', function (data){
+              $('html').prepend('<div>' + data.response + '<div>');
+            });
+            socket.on('random_number', function(data){
+              $('div').append('Your lucky number emitted by the server is ' + data.number + '.');
+            });
+        });
+    </script>
+</head>
+<body>
+  <form action='/'>
+      Your Name: <input type='text' id='name' name='name'>
+      <br>
+      Dojo Location: <select name="location" id='location'>
+        <option value="San Francisco">San Francisco</option>
+        <option value="Detroit">Detroit</option>
+        <option value="Seattle">Seattle</option>
+        <option value="Online">Online</option>
+        </select>
+      <br>
+      Favorite Language: <select name="language" id='language'>
+        <option value="Python">Python</option>
+        <option value="Java">Java</option>
+        <option value="Html">HTML</option>
+        <option value="None">None</option>
+        </select>
+      <br>
+      Comment (optional):
+      <br>
+      <textarea name='comment' id='comment' rows= '10' cols='60'></textarea>
+      <br>
+      <button id="submit" type="button" name="submit">Submit</button>
+  </form>
+</body>
+</html>

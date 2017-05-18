@@ -1,0 +1,44 @@
+* {
+  font-family: serif;
+  border-style: dotted;
+  border-color: green;
+  border-width: 1px;
+}
+
+.gold_counter {
+  border: solid black 2px;
+  height: 20px;
+  width: 100px;
+  display: inline-block;
+}
+.game {
+  padding: 10px;
+  width: 1080px;
+}
+.play_box {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  border: solid black 2px;
+}
+.play_box h3, p {
+  text-align: center;
+}
+input[type="submit"] {
+  display: inherit;
+  margin: 10px auto;
+}
+.activities_box {
+  width: 900px;
+  height: 70px;
+  border: solid black 2px;
+  text-align: right;
+}
+.green{
+  color: green
+}
+.red{
+  color: red
+}

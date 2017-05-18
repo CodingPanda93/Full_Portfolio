@@ -1,0 +1,407 @@
+<DATA>
+
+	<ROW>
+		<name>Albania</name>
+		<percentage>97.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Argentina</name>
+		<percentage>96.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Armenia</name>
+		<percentage>93.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>American Samoa</name>
+		<percentage>90.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Antigua and Barbuda</name>
+		<percentage>95.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Austria</name>
+		<percentage>92.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Burundi</name>
+		<percentage>98.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bangladesh</name>
+		<percentage>97.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bahamas</name>
+		<percentage>89.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bosnia and Herzegovina</name>
+		<percentage>99.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Bermuda</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Brazil</name>
+		<percentage>97.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Barbados</name>
+		<percentage>95.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Chile</name>
+		<percentage>89.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>China</name>
+		<percentage>92.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Colombia</name>
+		<percentage>99.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cape Verde</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Costa Rica</name>
+		<percentage>97.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Cuba</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Germany</name>
+		<percentage>91.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Dominica</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Denmark</name>
+		<percentage>93.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Dominican Republic</name>
+		<percentage>98.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ecuador</name>
+		<percentage>93.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Egypt</name>
+		<percentage>98.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Western Sahara</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Finland</name>
+		<percentage>92.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>France</name>
+		<percentage>93.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Faroe Islands</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>United Kingdom</name>
+		<percentage>97.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guadeloupe</name>
+		<percentage>95.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Greece</name>
+		<percentage>98.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Grenada</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>French Guiana</name>
+		<percentage>94.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Guyana</name>
+		<percentage>96.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Honduras</name>
+		<percentage>97.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Croatia</name>
+		<percentage>95.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Haiti</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Hungary</name>
+		<percentage>98.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Ireland</name>
+		<percentage>98.4</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Iceland</name>
+		<percentage>95.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Italy</name>
+		<percentage>94.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jamaica</name>
+		<percentage>94.2</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Jordan</name>
+		<percentage>97.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Japan</name>
+		<percentage>99.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Kiribati</name>
+		<percentage>98.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Kitts and Nevis</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>South Korea</name>
+		<percentage>99.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Lebanon</name>
+		<percentage>93.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Libyan Arab Jamahiriya</name>
+		<percentage>96.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Madagascar</name>
+		<percentage>98.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Maldives</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Mexico</name>
+		<percentage>92.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Marshall Islands</name>
+		<percentage>96.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Malta</name>
+		<percentage>95.8</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Martinique</name>
+		<percentage>96.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Nicaragua</name>
+		<percentage>97.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Netherlands</name>
+		<percentage>95.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Norway</name>
+		<percentage>96.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Poland</name>
+		<percentage>97.6</percentage>
+	</ROW>
+
+	<ROW>
+		<name>North Korea</name>
+		<percentage>99.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Portugal</name>
+		<percentage>99.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Palestine</name>
+		<percentage>95.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>RÃ©union</name>
+		<percentage>91.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Romania</name>
+		<percentage>90.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Rwanda</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saudi Arabia</name>
+		<percentage>95.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>El Salvador</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>San Marino</name>
+		<percentage>100.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Somalia</name>
+		<percentage>98.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Sweden</name>
+		<percentage>89.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Swaziland</name>
+		<percentage>89.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Seychelles</name>
+		<percentage>91.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Syria</name>
+		<percentage>90.0</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tonga</name>
+		<percentage>98.3</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Trinidad and Tobago</name>
+		<percentage>93.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Tuvalu</name>
+		<percentage>92.5</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Uruguay</name>
+		<percentage>95.7</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Saint Vincent and the Grenadines</name>
+		<percentage>99.1</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Venezuela</name>
+		<percentage>96.9</percentage>
+	</ROW>
+
+	<ROW>
+		<name>Yemen</name>
+		<percentage>99.6</percentage>
+	</ROW>
+</DATA>

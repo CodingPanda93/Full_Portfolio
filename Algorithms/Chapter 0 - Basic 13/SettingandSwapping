@@ -1,0 +1,10 @@
+<!--Setting and Swapping-->
+var myNumber= 42
+var myName=Emily
+var temp=0
+
+temp = myNumber
+myNumber = myName
+myName = temp
+
+.console.log(myNumber,myName)

@@ -1,0 +1,24 @@
+<html>
+<head>
+  <title>Success Page</title>
+  <link rel=stylesheet type=text/css href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <ul class=flashes>
+      {% for message in messages %}
+        <li class='success'>{{ message }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  {% endwith %}
+  <h1>Email Addresses Enter:</h1>
+  <div class="emails">
+    {% for record in emails %}
+      <li>
+        {{ record['email'] }} -- {{ record['created_at'].strftime('%d/%m/%y %I:%M%p') }}
+      </li>
+    {% endfor %}
+</body>
+</html>

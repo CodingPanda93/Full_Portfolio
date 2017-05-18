@@ -1,0 +1,17 @@
+* {
+ width: 970px auto;
+ margin: 0;
+ padding: 20px auto;
+}
+h2 {
+  text-decoration: underline;
+}
+.form_box {
+  padding: 10px;
+  width: 600px;
+  height: 600px;
+  border: solid black 3px;
+}
+select, input[type=text], textarea {
+  display: block;
+}

@@ -1,0 +1,245 @@
+<DATA>
+
+	<ROW>
+		<id>2515</id>
+		<name>Ciudad de MÃ©xico</name>
+		<country_code>MEX</country_code>
+		<district>Distrito Federal</district>
+		<population>8591309</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2516</id>
+		<name>Guadalajara</name>
+		<country_code>MEX</country_code>
+		<district>Jalisco</district>
+		<population>1647720</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2517</id>
+		<name>Ecatepec de Morelos</name>
+		<country_code>MEX</country_code>
+		<district>MÃ©xico</district>
+		<population>1620303</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2518</id>
+		<name>Puebla</name>
+		<country_code>MEX</country_code>
+		<district>Puebla</district>
+		<population>1346176</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2519</id>
+		<name>NezahualcÃ³yotl</name>
+		<country_code>MEX</country_code>
+		<district>MÃ©xico</district>
+		<population>1224924</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2520</id>
+		<name>JuÃ¡rez</name>
+		<country_code>MEX</country_code>
+		<district>Chihuahua</district>
+		<population>1217818</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2521</id>
+		<name>Tijuana</name>
+		<country_code>MEX</country_code>
+		<district>Baja California</district>
+		<population>1212232</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2522</id>
+		<name>LeÃ³n</name>
+		<country_code>MEX</country_code>
+		<district>Guanajuato</district>
+		<population>1133576</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2523</id>
+		<name>Monterrey</name>
+		<country_code>MEX</country_code>
+		<district>Nuevo LeÃ³n</district>
+		<population>1108499</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2524</id>
+		<name>Zapopan</name>
+		<country_code>MEX</country_code>
+		<district>Jalisco</district>
+		<population>1002239</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2525</id>
+		<name>Naucalpan de JuÃ¡rez</name>
+		<country_code>MEX</country_code>
+		<district>MÃ©xico</district>
+		<population>857511</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2526</id>
+		<name>Mexicali</name>
+		<country_code>MEX</country_code>
+		<district>Baja California</district>
+		<population>764902</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2527</id>
+		<name>CuliacÃ¡n</name>
+		<country_code>MEX</country_code>
+		<district>Sinaloa</district>
+		<population>744859</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2528</id>
+		<name>Acapulco de JuÃ¡rez</name>
+		<country_code>MEX</country_code>
+		<district>Guerrero</district>
+		<population>721011</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2529</id>
+		<name>Tlalnepantla de Baz</name>
+		<country_code>MEX</country_code>
+		<district>MÃ©xico</district>
+		<population>720755</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2530</id>
+		<name>MÃ©rida</name>
+		<country_code>MEX</country_code>
+		<district>YucatÃ¡n</district>
+		<population>703324</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2531</id>
+		<name>Chihuahua</name>
+		<country_code>MEX</country_code>
+		<district>Chihuahua</district>
+		<population>670208</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2532</id>
+		<name>San Luis PotosÃ­</name>
+		<country_code>MEX</country_code>
+		<district>San Luis PotosÃ­</district>
+		<population>669353</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2533</id>
+		<name>Guadalupe</name>
+		<country_code>MEX</country_code>
+		<district>Nuevo LeÃ³n</district>
+		<population>668780</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2534</id>
+		<name>Toluca</name>
+		<country_code>MEX</country_code>
+		<district>MÃ©xico</district>
+		<population>665617</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2535</id>
+		<name>Aguascalientes</name>
+		<country_code>MEX</country_code>
+		<district>Aguascalientes</district>
+		<population>643360</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2536</id>
+		<name>QuerÃ©taro</name>
+		<country_code>MEX</country_code>
+		<district>QuerÃ©taro de Arteag</district>
+		<population>639839</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2537</id>
+		<name>Morelia</name>
+		<country_code>MEX</country_code>
+		<district>MichoacÃ¡n de Ocampo</district>
+		<population>619958</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2538</id>
+		<name>Hermosillo</name>
+		<country_code>MEX</country_code>
+		<district>Sonora</district>
+		<population>608697</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2539</id>
+		<name>Saltillo</name>
+		<country_code>MEX</country_code>
+		<district>Coahuila de Zaragoza</district>
+		<population>577352</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2540</id>
+		<name>TorreÃ³n</name>
+		<country_code>MEX</country_code>
+		<district>Coahuila de Zaragoza</district>
+		<population>529093</population>
+		<country_id>136</country_id>
+	</ROW>
+
+	<ROW>
+		<id>2541</id>
+		<name>Centro (Villahermosa)</name>
+		<country_code>MEX</country_code>
+		<district>Tabasco</district>
+		<population>519873</population>
+		<country_id>136</country_id>
+	</ROW>
+</DATA>

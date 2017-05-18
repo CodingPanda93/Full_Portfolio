@@ -1,0 +1,72 @@
+<html lang="en" ng-app = 'myApp'>
+<head>
+  <title>Products with Factorys</title>
+  <script src='bower_components/angular/angular.js'></script>
+  <script type='text/javascript'>
+    var myApp = angular.module('myApp', []);
+
+    myApp.factory('productFactory', ['$http', function($http) {
+      var products = [{name: 'Keyboard', price: 14.99}];
+      var factory = {};
+      factory.index = function(callback){
+        callback(products);
+      }
+      factory.addProduct = function(product, callback) {
+        if(product.price && Number(parseFloat(product.price))==product.price){
+          products.push(product);
+          callback(products);
+        }
+      }
+      factory.deleteProduct = function(id, callback) {
+        products.splice(id,1);
+        callback(products);
+      }
+      return factory;
+    }]);
+    myApp.controller('productController', ['$scope', 'productFactory', function ($scope, productFactory) {
+      function setProducts(data){
+        $scope.products = data;
+        $scope.product = {};
+      }
+
+      $scope.product = {};
+      $scope.products = {};
+
+      $scope.index = function(){
+        productFactory.index(setProducts);
+      }
+
+      $scope.index();
+      $scope.addProduct = function(){
+        productFactory.addProduct($scope.product, setProducts);
+      }
+      $scope.deleteProduct = function(id){
+        productFactory.deleteProduct(id, setProducts);
+      }
+    }])
+  </script>
+</head>
+<body ng-app='myApp'>
+  <div ng-controller='productController'>
+    <fieldset><legend>Products Controller</legend>
+    <form ng-submit="addProduct()">
+        Name: <input type="text" ng-model='product.name' placeholder="Name">
+        Price: <input type="text" step="0.01" ng-model='product.price' placeholder="Price">
+        <input type="submit" value="Add Product">
+    </form>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Actions</th>
+      </tr>
+      <tr ng-repeat="product in products | orderBy: 'price' track by $index ">
+        <td>{{product.name}}</td>
+        <td>{{product.price | currency}}</td>
+        <td><button ng-click='deleteUser($index)'>Delete Product</button></td>
+      </tr>
+    </table>
+    </fieldset>
+  </div>
+</body>
+</html>

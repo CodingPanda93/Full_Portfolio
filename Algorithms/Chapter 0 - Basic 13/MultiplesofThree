@@ -1,0 +1,6 @@
+function multiplesof3 {
+  for (var i= -300; i < 1; i++){
+    while (i!== -3) | (i!== -6){
+      console.log(i)
+    }
+}

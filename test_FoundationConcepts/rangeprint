@@ -1,0 +1,8 @@
+function rangeprint(a,b,c) {
+var i = a;
+
+  while (i < b) {
+    i = i + c;
+    return i;
+  }
+}

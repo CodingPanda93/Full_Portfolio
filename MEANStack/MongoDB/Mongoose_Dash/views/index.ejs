@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Display All Animals</title>
+</head>
+<body>
+  <a href="/">Home</a>
+  <br>
+  <a href="/mongooses/new">Add New Animal Here!</a>
+  <h1>Check out all the awesome animals!</h1>
+  <% for (var i in animals) { %>
+    <a href="/mongooses/edit/<%= animals[i].id %>">Edit</a>
+    <p>Animal: <%= animals[i].animal %></p>
+    <p>Age: <%= animals[i].age %></p>
+    <p>Legs: <%= animals[i].num_of_legs %></p>
+    <a href="/mongooses/destroy/<%= animals[i].id %>">Remove</a>
+    <hr>
+  <% } %>
+</body>
+</html>

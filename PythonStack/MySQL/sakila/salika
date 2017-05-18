@@ -1,0 +1,5 @@
+USE sakila;
+SELECT customer.first_name, customer.last_name, customer.email, address.address, city.city FROM city
+LEFT JOIN address ON city.city_id = address.city_id
+LEFT JOIN customer ON address.address_id = customer.address_id
+WHERE city.city_id = 312;

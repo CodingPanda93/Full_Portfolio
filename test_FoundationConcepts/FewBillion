@@ -1,0 +1,8 @@
+function FewBillion () {
+var num = .01;
+
+for (var i = 30; i >=0; i--) {
+  num = num + num;
+}
+console.log(num)
+}

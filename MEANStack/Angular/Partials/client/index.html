@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" ng-app = 'app'>
+<head>
+  <meta charset="UTF-8">
+  <title>Angular Partials and CustomUsers</title>
+  <script src = 'angular/angular.js'></script>
+  <script src = 'angular-route/angular-route.js'></script>
+  <script src = 'app.js'></script>
+  <script src = 'controllers/CustomizeUsersController.js'></script>
+  <script src = 'controllers/UserListsController.js'></script>
+  <script src = 'factories/userFactory.js'></script>
+</head>
+<body>
+  <div ng-hide='true'>
+    Angular is not working!!
+  </div>
+  <nav>
+    <a href="#!/users">Customize Users</a>
+    <a href="#!/list">User List</a>
+  </nav>
+  <ng-view></ng-view>
+</body>
+</html>

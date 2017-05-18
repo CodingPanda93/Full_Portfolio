@@ -1,0 +1,23 @@
+//Write it out: Is the year divisible by 4?
+//Yes, then is it divisible by 100?
+//Then is it divisible by 400?  Yes, then it is a Leap Year
+function leapyear() {
+ var i = (starting year)
+
+ if (i % == 4){
+  if (i % === 100){
+      if (i % == 400) {
+      console.log (i)
+      }
+      else{
+       continue;
+      }
+  }
+  else {
+    console.log (i)
+  }
+ }
+ else {
+  continue;
+ }
+}

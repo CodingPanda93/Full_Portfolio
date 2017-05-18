@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Add User to Courses</title>
+	</head>
+	<body>
+    <h1>Sign Up for A Course</h1>
+		<form action="{% url'courses:sign_up' %}" method='post'>
+				{% csrf_token %}
+				<input type='submit' value='Sign Up Here!'>
+		</form>
+		<h1>Courses</h1>
+    <table>
+      <tr>
+        <th>Course</th>
+        <th>Title</th>
+        <th>Number of Users</th>
+      </tr>
+      {% for course in courses %}
+      <tr>
+        <td>{{course.number}}</td>
+        <td>{{course.name}}</td>
+        <td>Number of Users</td>
+      </tr>
+      {% endfor %}
+    </table>
+	</body>
+</html>

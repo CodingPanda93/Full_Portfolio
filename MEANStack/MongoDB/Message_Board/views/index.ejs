@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Message Board</title>
+</head>
+<body>
+    <h1>The Dojo Message Board</h1>
+    <hr>
+    <form action='/new_post' method='post'>
+      Name:<input type="text" name='name'>
+      <br>
+      Message:<input type='text' name='text' rows= '10' cols='60'>
+      <br>
+      <input type='submit' value='Post Message'>
+    </form>
+    <hr>
+    <% for (i in posts) { %>
+      <p>Name: <%= posts[i].name %></p>
+      <p>Message: <%= posts[i].text %></p>
+      <% for (y in posts[i]._comments) { %>
+        <p><%="Name: " + posts[i]._comments[y].name %></p>
+        <p><%="Comment: " + posts[i]._comments[y].text %></p>
+      <% } %>
+      <form action=<%="/comment/" + posts[i]._id %> method="post">
+        <p>Name: </p><input type="text" name="name">
+        <p>Comment: </p><textarea name="comment"></textarea>
+        <input type="submit" value="Post comment">
+      </form>
+      <hr>
+    <% } %>
+</body>
+</html>

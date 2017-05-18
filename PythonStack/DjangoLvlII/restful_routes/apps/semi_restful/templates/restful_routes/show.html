@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Product Info</title>
+	</head>
+	<body>
+    <h1>Product {{product.id}}</h1>
+    <p>Name: {{product.name}}</p>
+    <p>Description: {{product.description}}</p>
+    <p>Price: {{product.price}}</p>
+		<form action="{% url 'products:edit' id=product.id %}" method='post'>
+      {% csrf_token %}
+      <input type='submit' value='Edit'>
+    </form>
+    <form action="{% url 'products:index' %}" method='post'>
+      {% csrf_token %}
+      <input type='submit' value='Go Back'>
+    </form>
+  </body>
+</html>
